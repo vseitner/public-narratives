@@ -47,7 +47,7 @@ Let's add some configuration to reduce the width of the image and add color to t
 
 **Input:**
 ```
-![Image](https://placehold.co/800x100) <!--{ width="800" }-->
+![Image](https://placehold.co/800x100) <!--{ width="300" }-->
 
 _Some italic text, now in red_ <!--{ style="color:red" }-->
 ```
