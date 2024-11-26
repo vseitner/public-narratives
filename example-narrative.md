@@ -4,7 +4,9 @@
 
 ## Why storytelling?
 
-Storytelling is crucial in the realm of science because scientific data, while rich in information, can often be complex and challenging to communicate. By framing data within narratives, storytelling makes scientific concepts accessible, engaging, and memorable to a wider audience. It bridges the gap between the technical details of research and the public's understanding, fostering appreciation, curiosity, and ultimately, a deeper connection to the wonders of science.
+Storytelling is the enabling part of GTIF outcome presentation because resulting data can often be complex and challenging to communicate. By framing data within narratives, storytelling makes GTIF concepts accessible, engaging, and memorable to a wider audience. It bridges the gap between the scientific and technical details involved in the production of the GTIF information and the public's understanding of its utility in green transition and climate change adaptation. 
+
+It provides just enough background to make the nature and availability of the offered GTIF-information understandable: Descriptions of the input data used, the value-adding steps applied, how the information factory links them internally, how the related provider landscape is structured, through which services information is conveyed, and which the conditions are for its access and exploitation.
 
 ## How do I get started?
 
@@ -106,6 +108,14 @@ Each tour step is described as an `h3` (`###`) heading.
 #### Third tour step.
 
 To change individual parameters like zoom or center, or to change the map layers for a step, just set them using the HTML comment syntax. This changes the map setting for the current map
+
+## About Section, Legals and Subscription Information
+
+Do not forget to include enough details explaining the governance related to the GTIF Capability you describe: 
+- Provide a logo, organization name and first-level support email contact informations of the entity providing the service to users; you may reference sponsors or funding organizations or other enabling institutions  
+- Explain the difference between the version of the service which is free and openly available and the version(s) which is (are) offered under commercial conditions. If you offer the latter, describe subscription plans and where more details are provided e.g. linking to the relevant sales pages
+- Give related information should your Capability be registered at the [Network of Resources](https://eo4society.esa.int/network-of-resources) explaining that ESA sponsoring might be granted for pre-commercial utilization
+- Include any applicable copyright information both related to the narrative and to your actual GTIF Capability; you may include how inclusion of information stemming from your GTIF Capability shall be referenced in publications and Websites 
 
 ## Final Words
 
