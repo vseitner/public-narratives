@@ -1,4 +1,4 @@
-# DRAFT -- brownfield-potential-cadastre -- DRAFT
+# brownfield-potential-cadastre
 # Brownfield Potential Cadastre Austria <!--{ as="img" mode="hero" src="https://www.gstatic.com/prettyearth/assets/full/14617.jpg" }-->
 ### by Austrian Environent Agency <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
