@@ -1,6 +1,10 @@
 # public-narratives
 Repository contains "Narratives" (structured multi-media descriptions) of all known GTIF services released for publishing. Copyrights reside with the listed Providers. 
 
+**Example narrative and required content** see https://gtif-austria.info/narratives/example-narrative
+
+Besides explanatory overviews and technical facts, the inclusion of "About", "Legals", and "Subscription Information" is mandatory (see https://gtif-austria.info/narratives/example-narrative#section-about-section-legals-and-subscription-information). 
+
 Capabilities implemented during the ESA project "*Green Transition Information Factories Austria Consolidation Activities (GTIF-AT C)*". 
 
 |ESA Work Requirement|Capability|Provider|Narrative|
