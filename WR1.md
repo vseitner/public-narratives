@@ -16,10 +16,10 @@ This process involves the following steps:
 * Preparation of meteorological weather models as input data sets.
 *	Calibration, testing, and validation of the geo-statistical model.
 *	Application of the geo-statistical coefficients and wind shear profiles to obtain Austria-wide dataset for the wind conditions in different heights above ground (wind atlas). 
-The method employed in the calculation of the data for the Austrian wind atlas can be applied to other countries or regions. It is thus planned to provide this algorithm via ESA's network of resources and transferability of the algorithm will be considered in the implementation of the method.
+The method employed in the calculation of the data for the Austrian wind atlas can be applied to other countries or regions. It is thus planned to provide this algorithm ,via ESA's network of resources and transferability of the algorithm will be considered in the implementation of the method.
 ## Long term perspective
 After completion of the ESA contact in early 2026, a handover of the results and services into governance by Austrian stakeholders and into sustainable operation is scheduled to take place. The objectives of this work package are aligned to the requirements of the Austrian stakeholders and the suitable POCs have been nominated to ensure an ongoing input as to the relevant needs and priorities. Austrian stakeholders should thus have a strong interest in the continued availability and maintenance of the results, which will very much help in funding a continued operation.
-Stakeholders include local authorities (federal, state), districts regions and wind farm planners and operators.
+Stakeholders include local authorities (federal, state), districts, regions, wind farm planners and operators.
 ##### Contact: 
 Alexander Stökl - Energiewerkstatt
 
