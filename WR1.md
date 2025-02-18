@@ -1,4 +1,5 @@
 # Austrian Wind Atlas
+![](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/78e12a8353f0c44a0cf1113d166c2ad350b18da7/assets/TM1345/Bild1-1739866425546.png)
 ## Motivation
 Wind energy is an essential and indispensable part of the expansion of renewable energies in Austria, in particular as it complements energy production from photovoltaics and hydropower during the night and in the winter months.
 Since many of the areas ostensibly suitable for wind energy are already being used intensively (e.g. in northern Burgenland or Weinviertel), the challenge in the further expansion of wind energy increasingly lies in the identification of further suitable areas. The most important criterion for the identification of such areas are suitable wind conditions at the hub height of wind turbines, at about 100 to 200 m above ground. 
