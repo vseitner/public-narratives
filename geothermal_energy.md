@@ -1,4 +1,4 @@
-# WR07 - Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy
+# Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy
 
 Imagine a clean, renewable energy source right beneath our feet, quietly waiting to heat our homes and communities. Shallow geothermal energy taps into the Earth's gentle warmth, just a few meters below the surface, offering a sustainable solution for heating and cooling. Our project brings this incredible resource closer to everyone with an easy-to-use online tool that calculates its potential and efficiency.
 Powered by cutting-edge remote sensing technology, the tool analyses data from Sentinel-1 satellites, ERA5-land, Sentinel-3 that monitor the Earth's surface with remarkable precision. Using this data, we provide insights into the availability and performance of shallow geothermal energy in specific locations. While initially developed and tested in Austria, the tool's global applicability means it can help individuals, businesses, and governments worldwide explore this eco-friendly energy option.
@@ -28,20 +28,19 @@ By means of in situ and satellite derived data such:
 
 
 
-## List <!--{ as="div" }-->
-1. **AIR TEMPERATURE**
+## Air Temperature
 
 | From Spartacus GeoSphere (2) | to ERA-5 land (3) |
 |---------|---------|
 |![2](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1da48938c24128a7d9c39c59a4b85bf99f736e22/assets/vecfil/spartacus-1739879613282.png) |![3](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/78349f76d42d90446a1f6a45fb670344d4d10735/assets/vecfil/era5-1739879688349.png) |
 
-2. **SOIL MOISTURE**
+## Soil Moisture
 
 | From WegenerNet in-situ (4)              | to Sentinel-1(5)  |
 |---------|---------|
 |![4](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7c7dcec115ea704ae852fdcc081855593911470a/assets/vecfil/soilmoist-1739880092747.png) |![5](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/e3c4d81613560ea9cded77e4335919b0d652e748/assets/vecfil/s1-1739880121210.png) |
 
-4. **GROUND TEMPERATURE**
+## Ground Temperature
 
 | From WegenerNet in-situ (4)   | to Sentinel-3 LST5 (6)  |
 |---------|---------|
@@ -52,20 +51,18 @@ By means of in situ and satellite derived data such:
 Whether you're a homeowner curious about sustainable heating, a developer planning an eco-friendly project, or a policymaker aiming to promote green energy, this tool empowers you to make informed decisions. By combining the power of satellite data and advanced calculations, we’re making it easier than ever to tap into the Earth's renewable energy and contribute to a greener future.
 With this tool, the potential of shallow geothermal energy becomes accessible to all—paving the way for a world powered by sustainable, innovative solutions. Let’s uncover the energy under our feet and harness it for a better tomorrow!
 
-# Organizational details and legal information
+## Organizational details and legal information
 
-![7](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/86fa3c8d50a5a8ee38b1fafbef83caa0a9db424f/assets/vecfil/GSABasislogoNegativAufLimeRGBL-1739884328977.png)
-
-
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/86fa3c8d50a5a8ee38b1fafbef83caa0a9db424f/assets/vecfil/GSABasislogoNegativAufLimeRGBL-1739884328977.png" alt="geosphere logo" width="200">
 
 
-Contact point: Stefan Hoyer/ Eszter Buga-Nyeki/ Filippo Vecchiotti
+Contact points: [Stefan Hoyer](mailto:stefan.hoyer@geosphere.at), [Eszter Buga-Nyeki](mailto:eszter.buga-nyeki@geosphere.at), [Filippo Vecchiotti](mailto:filippo.vecchiotti@geosphere.at)
 
-* *Available services:*
+*Available services:*
 1. **Free version:** The Shallow Geothermal Energy assessment tool will be calibrated at 250m/500m spatial resolution but developed at 1 km spatial resolution. Spatial coverage: Austria. GeoSphere Austria service agreement T.B.D. 
 2. **Commercial version:** T.B.D.
 
-# Image resources
+## Image resources
 2.	Spartacus, https://data.hub.geosphere.at/
 3.	ERA5-land, https://climate.copernicus.eu/climate-reanalysis 
 4.	WegenerNet website, https://wegenernet.org/portal/ 
