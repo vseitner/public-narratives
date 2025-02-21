@@ -1,0 +1,7 @@
+# The challenge of forecasting urban extreme temperature 
+
+Rising temperatures and increasing heat stress pose challenges for city residents in summer and require urban planners to transform cities into resilient and climate-adapted living spaces. So-called heat hotspots arise particularly in densely built-up and heavily sealed areas. This problem particularly affects vulnerable groups such as the elderly, children and people with chronic illnesses. In winter, on the other hand, severe frost leads to cold deaths and dangers especially in traffic (black ice). Weather-related health risks are increasing, and the importance of precise weather forecasts, especially in urban areas, is therefore growing rapidly.
+
+## Our solution: tailor-made high-resolution temperature forecasts for your city
+
+GeoSphere Austria is working with the latest technology to forecast urban weather phenomena more accurately. By integrating precise satellite-based (e.g. Sentinel-2) land cover data and additional information, the air temperature and derived variables are calculated on a 100-meter grid. This advanced model approach helps not only the public, but also actors in the State Crisis and Disaster Management (SKKM) to respond to potential dangers more quickly and efficiently. In addition, the forecasts can be used to predict heating or cooling requirements. The more detailed the temperature forecast, the more accurately the energy requirement can be estimated, which can increase the efficiency of energy systems.
