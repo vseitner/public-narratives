@@ -5,6 +5,7 @@ Rising temperatures and increasing heat stress pose challenges for city resident
 ## Our solution: tailor-made high-resolution temperature forecasts for your city
 
 GeoSphere Austria is working with the latest technology to forecast urban weather phenomena more accurately. By integrating precise satellite-based (e.g. Sentinel-2) land cover data and additional information, the air temperature and derived variables are calculated on a 100-meter grid. This advanced model approach helps not only the public, but also actors in the State Crisis and Disaster Management (SKKM) to respond to potential dangers more quickly and efficiently. In addition, the forecasts can be used to predict heating or cooling requirements. The more detailed the temperature forecast, the more accurately the energy requirement can be estimated, which can increase the efficiency of energy systems.
+![Fig1_resolution](https://github.com/user-attachments/assets/428d4891-20d9-4b60-a045-3fc4e53a0e16)
 
 ## Organizational details and legal information
 
@@ -15,4 +16,4 @@ Contact points: [Brigitta Hollosi](mailto:brigitta.hollosi@geosphere.at), [Stefa
 
 *Available services:*
 1. **Free version:** During project runtime, example forecasts are available for selected Austrian cities. Long term strategy T.B.D. 
-2. **Commercial version:** unpon request, please contact [Gerhard Wotawa](mailto:gerhard.wotawa@geosphere.at), [Bernhard Niedermoser](mailto: bernhard.niedermoser@geosphere.at)
+2. **Commercial version:** upon request, please contact [Gerhard Wotawa](mailto:gerhard.wotawa@geosphere.at), [Bernhard Niedermoser](mailto:bernhard.niedermoser@geosphere.at)
