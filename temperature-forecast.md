@@ -1,6 +1,6 @@
 # The challenge of forecasting urban extreme temperature 
 
-![Skizze](https://github.com/user-attachments/assets/6da9d271-a1cb-4622-b675-280587197fd6)
+<!-- ![Skizze](https://github.com/user-attachments/assets/6da9d271-a1cb-4622-b675-280587197fd6) -->
 
 Rising temperatures and increasing heat stress pose challenges for city residents in summer and require urban planners to transform cities into resilient and climate-adapted living spaces. So-called heat hotspots arise particularly in densely built-up and heavily sealed areas. This problem particularly affects vulnerable groups such as the elderly, children and people with chronic illnesses. In winter, on the other hand, severe frost can lead to cold deaths and other dangers, especially in traffic (black ice). 
 
