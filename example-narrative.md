@@ -113,6 +113,16 @@ Each tour step is described as an `h3` (`###`) heading.
 
 To change individual parameters like zoom or center, or to change the map layers for a step, just set them using the HTML comment syntax. This changes the map setting for the current map
 
+## Image Tour section <!--{ as="img" mode="tour" }-->
+
+### <!--{ src="https://picsum.photos/800/600" }-->
+#### This is an image tour.
+It allows you to have different sources for each tour "step".
+
+### <!--{ src="https://picsum.photos/900/700" }-->
+#### Second tour step.
+Each tour step is described as an *h3* (*###*) heading.
+
 ## About Section, Legals and Subscription Information
 
 Do not forget to include enough details explaining the governance related to the GTIF Capability you describe: 
