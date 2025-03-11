@@ -62,14 +62,8 @@ HRM Maps can also be offered for download as files from an access controlled sFT
 
 ## Delivery Process
 The delivery process for the HRM Capability involving Customer and Provider(s) is shown in the following workflow.
-
-
-
-
-
 # Workflow <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/workflow-1741688297522.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/625e1f41a907e0b7106d307d2d60d805bee47c9f/assets/workflow-1741688297522.jpg" }-->
 ### by AIT <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
-
 
 ## About: Provider Entities
 The following entities are, or may be, involved in the provision of the HRM Capability:
