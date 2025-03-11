@@ -62,8 +62,7 @@ HRM Maps can also be offered for download as files from an access controlled sFT
 
 ## Delivery Process
 The delivery process for the HRM Capability involving Customer and Provider(s) is shown in the following workflow.
-# Workflow <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/workflow-1741688297522.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/625e1f41a907e0b7106d307d2d60d805bee47c9f/assets/workflow-1741688297522.jpg" }-->
-### by AIT <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+## Workflow <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/workflow-1741688647020.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/e5b4da2e69afbce1129a5674fa688a5eb22fd169/assets/workflow-1741688647020.jpg" style="width: 100%; height: 600px;"}-->
 
 ## About: Provider Entities
 The following entities are, or may be, involved in the provision of the HRM Capability:
@@ -71,3 +70,5 @@ The following entities are, or may be, involved in the provision of the HRM Capa
 AIT - Austrian Institute of Technology (Center for Energy/DRC)
 - The HRM Model is a copyright of AIT. The model is closed source.
 - AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
+
+
