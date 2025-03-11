@@ -26,7 +26,7 @@ We communicate results using a single-layer multi-temporal representation, where
 | ![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/rgb-1741677355597.jpg)        | ![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/cube-legend-1741677360470.png)  | ![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/tseries2-1741677368483.gif)  |
 |                     |                       |                    |
 
-*Storm damages in forests - vegetation changes 2018-2020-2022 (left: R-G-B color coded; right: Sentinel-2 time series from which the information has been automatically extracted.*
+*Storm damages in forests - vegetation changes 2018-2020-2022 (left: R-G-B color coded; right: Sentinel-2 time series from which the information has been automatically extracted)*
 
 **Service coverage** Within the funded project, the service will be developed for the whole of Austria, covering at least the years 2018-2025. The approach is designed to be scaled up to any region worldwide since the semantic enrichment approach does not require re-training or adaptations for other regions.
 
