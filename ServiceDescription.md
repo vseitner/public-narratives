@@ -1,5 +1,5 @@
 # Heat Risk Maps
-Subtitle
+
 ## Problem & Needs
 ## List <!--{ as="div" }-->
 - Heat extremes at daytime and no cooling at nighttime: climate change poses a rising threat to urban life. Austria’s cities experienced almost a tripling of heat days and tropical nights – with the trend still increasing.
@@ -25,6 +25,11 @@ The developed heat-risk-algorithm merges state-of-the-art satellite information,
 -	Update current heat risk information: Changing climate conditions, development of urban areas and changed population statistics make outdated maps unusable. The developed algorithm allows updates on the fly.
 -	Finding locations with future risks: Organizations and companies dealing with vulnerable groups, can identify locations with high or low current and future heat risk, which is crucial for planning operation centres and deployments.
 
+## Benefits of Heat Risk Maps within GTIF
+1.	Update frequency: HRM are not a single product or service, but can be updated if relevant input data changes (e.g. building stock, population density, updated climate models)
+2.	Consistency: HRM use VDI conformal urban climate analysis and can thus either incorporate already available data or provide climatope information by the algorithm itself.
+3.	Data availability: HRM uses open-source data that can easily be replaced if higher quality datasets are available.
+
 ## Heat Risk Maps
 ## Heat Risk Maps <!--{ as="div" }-->
 - Target resolution: 50-250 m (any)
@@ -34,3 +39,41 @@ The developed heat-risk-algorithm merges state-of-the-art satellite information,
   - Land use data from Copernicus (Earth observation component of the European Union Space Programme)
   - Latest high-resolution climate scenarios (CMIP6 downscaled)
 
+
+## Map Tour <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### INTERACTIVE MAP ILLUSTRATION (TBD)
+ Satellite image is gradually overlaid with data layers (3 layers) so that the risk is mapped with higher resolution bit by bit. 
+
+
+## HRM APIs
+The HRM map is delivered via two different Application Programming Interfaces (APIs): (1) the OGC Web Map Service (WMS), a Web-standard portrayal and streaming interface for cascaded integration into widely used Geographical Information Systems such as QGIS, and (2) a RESTful machine-to-machine (M2M) API for integration with special end-user IT environments. Both APIs will be access-controlled for an authorized group of users.
+
+CHARACTERIZATION RESTful API: [...]
+
+## WebGIS Visualization
+The WebGIS will be access-controlled for an authorized group of users.
+
+WEBGUI ILLUSTRATION:  [...]
+
+## Download
+HRM Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file. 
+
+## Delivery Process
+The delivery process for the HRM Capability involving Customer and Provider(s) is shown in the following workflow.
+
+
+
+
+
+# Workflow <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/workflow-1741688297522.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/625e1f41a907e0b7106d307d2d60d805bee47c9f/assets/workflow-1741688297522.jpg" }-->
+### by AIT <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+
+
+## About: Provider Entities
+The following entities are, or may be, involved in the provision of the HRM Capability:
+
+AIT - Austrian Institute of Technology (Center for Energy/DRC)
+- The HRM Model is a copyright of AIT. The model is closed source.
+- AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
