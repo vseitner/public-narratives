@@ -42,6 +42,8 @@ We communicate results using a single-layer multi-temporal representation, where
 
 After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to-date) access.
 
+For more Information: [sims.sen2cube.at](https://sims.sen2cube.at/)
+
 **Organizational details and legal information**
 
 Project: GTIF-AT – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
