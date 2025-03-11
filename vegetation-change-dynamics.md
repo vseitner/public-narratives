@@ -44,13 +44,8 @@ Project: GTIF-AT – Copernicus Temporal Spectrum: Multitemporal Vegetation Chan
 
 Paris Lodron University Salzburg, Depart. of Geoinformatics
 
-![logo-ZGIS](lhttps://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-ZGIS-1741677835182.png)
+![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-ZGIS-1741677835182.png)
 
-![logo-SPASE](lhttps://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-SPASE-1741677830244.png)
+![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-SPASE-1741677830244.png)
 
 Contact point: dirk.tiede@plus.ac.at ; markus.kerschbaumer@spatial-services.com  
-
-
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/e6dfd34edd1467489f29e9010f1a096a5bd548af/assets/logo-SPASE-1741677830244.png" data-fallback-src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-SPASE-1741677830244.png" />
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c0862a56e8802f75e875782c05acd16019dae2bc/assets/logo-ZGIS-1741677835182.png" data-fallback-src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-ZGIS-1741677835182.png" />
