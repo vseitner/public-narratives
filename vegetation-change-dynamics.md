@@ -42,7 +42,7 @@ We communicate results using a single-layer multi-temporal representation, where
 
 After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to-date) access.
 
-For more Information: [sims.sen2cube.at](https://sims.sen2cube.at/)
+For more Information: [sims.sen2cube.at](https://arcg.is/0niC5L)
 
 **Organizational details and legal information**
 
