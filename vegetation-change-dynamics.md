@@ -40,7 +40,7 @@ Storm damages in forests - vegetation changes 2018-2020-2022 (left: R-G-B color 
 
 **Long term perspective**
 
-After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to date) access.
+After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to-date) access.
 
 **Organizational details and legal information**
 
