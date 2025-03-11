@@ -1,4 +1,8 @@
-![header](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/header-1741677041135.png)
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 80%;"
+src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b09d7d1c24e6ac9b460b20b505256e8d3d6aa239/assets/header-1741678422826.png" data-fallback-src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/header-1741678422826.png" />
 
 # Multitemporal Vegetation Change Dynamics across all Sentinel-2 observations
 
