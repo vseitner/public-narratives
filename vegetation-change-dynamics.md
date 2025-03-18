@@ -1,3 +1,7 @@
+---
+cover-image: https://picsum.photos/id/53/800/600
+---
+
 <img  style="display: block; 
            margin-left: auto;
            margin-right: auto;
