@@ -6,7 +6,7 @@ cover-image: https://picsum.photos/id/53/800/600
            margin-left: auto;
            margin-right: auto;
            width: 80%;"
-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b09d7d1c24e6ac9b460b20b505256e8d3d6aa239/assets/header-1741678422826.png" data-fallback-src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/header-1741678422826.png" />
+src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/header-1741678422826.png" />
 
 # Multitemporal Vegetation Change Dynamics across all Sentinel-2 observations
 
@@ -19,7 +19,7 @@ This service will fill the missing temporal component for GTIF-AT with multitemp
 
 The ideas build on a semantic data cube approach using fully automated semantic enrichment of all Sentinel-2 images in a user defined analysis period (e.g. years or seasons). In contrast to machine learning/deep learning approaches, such a knowledge-based semantic enrichment approach needs less energy consumption if scaled and the transferability of the approach to all Sentinel-2 data worldwide has been proven (see results of the ESA inCubed project SIAMaaS, see also https://app.color33.io ). All available imagery can be used without additional pre-processing to filter cloud contaminated data. This has the advantage that smaller cloud-free regions are used even in very cloudy images, increasing the number of valid, clear observations and therefore the statistical soundness. 
 
-<video src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a2e37f99b186bf8c39ef38e0385029304f4c6c61/assets/tseries-1741678130535.mp4" data-fallback-src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/tseries-1741678130535.mp4" controls></video>
+<video src="https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/tseries-1741678130535.mp4" controls></video>
 
 We communicate results using a single-layer multi-temporal representation, where colour represents different user-defined time periods and changes. This visualisation colour-codes terabytes of multi-temporal information into a single, comprehensive layer. While this approach is backed by established geovisualisation techniques, we extend it to unveil temporal processes and dynamics hidden in big EO data. The resulting layer can be used in a very simple way: It serves as an interpretable basemap that can be integrated in GTIF-AT as a background layer or as a user defined layer for specific time periods.
 
