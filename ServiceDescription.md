@@ -1,3 +1,7 @@
+---
+cover-image: https://picsum.photos/id/53/800/600
+---
+
 # Heat Risk Maps
 
 ## Problem & Needs
