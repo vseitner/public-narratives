@@ -103,6 +103,18 @@ Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzah
 - **Auffinden von Orten mit zukünftigen Risiken**: Organisationen und Unternehmen, die mit vulnerablen Gruppen zu tun haben, können Orte mit hohem oder niedrigem, aktuellen und künftigen Hitzerisiko ermitteln, was für die Planung von Einreichtungen und Einsätzen entscheidend ist.
 
 
+## Qualitätskontrolle
+Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualitätskomponente dar. Durch eine **Trendanalyse der Oberflächentemperatur**, können Veränderungen in der Landnutzungs- und Bebauungsstruktur einer Stadt identifiziert werden. An diesen Orten ist die Aktualität der Eingangsdaten zu überprüfen.
+
+### Hochaufgelöste Oberflächentemperatur
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+Quelle: OHB SE (https://www.ohb.de/)
+
+
+### Trendanalyse der Oberflächentemperatur
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c99dc5ac1895afc4f0bedeb7be09c9b37e63d39d/assets/OHB-1742473297589.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742473297589.png" />
+Quelle: OHB SE (https://www.ohb.de/)
+
 
 
 ## Use-case examples
@@ -155,6 +167,8 @@ The following entities are, or may be, involved in the provision of the HRM Capa
 AIT - Austrian Institute of Technology (Center for Energy/DRC)
 - The HRM Model is a copyright of AIT. The model is closed source.
 - AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
+
+
 
 
 
