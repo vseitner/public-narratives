@@ -117,23 +117,15 @@ Quelle: OHB SE (https://www.ohb.de/)
 Quelle: OHB SE (https://www.ohb.de/)
 
 ## Offene Fragen
-### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau? 
+-
+#### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau? 
+-
+#### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
+-
+#### Wofür könnten Hitzerisikokarten zukünftig verwenden?
 
-### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
-
-### Wofür könnten Hitzerisikokarten zukünftig verwenden?
 
 
-
-
-## Use-case examples
-## Use-case examples <!--{ as="div" }-->
-
--	Heat action and heat protection plans: Integration of heat risk maps can support to tailor actions to the areas at risk.
--	Urban development concepts: Heat Risk Maps provide valuable information to spatial development and city planners in making their city liveable for the future.
--	Prioritization of adaptation measures: The heat risk concept allows to compare areas within cities and quantify adaptation measures customized to high-risk places.
--	Update current heat risk information: Changing climate conditions, development of urban areas and changed population statistics make outdated maps unusable. The developed algorithm allows updates on the fly.
--	Finding locations with future risks: Organizations and companies dealing with vulnerable groups, can identify locations with high or low current and future heat risk, which is crucial for planning operation centres and deployments.
 
 ## Benefits of Heat Risk Maps within GTIF
 1.	Update frequency: HRM are not a single product or service, but can be updated if relevant input data changes (e.g. building stock, population density, updated climate models)
