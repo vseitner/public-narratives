@@ -46,35 +46,43 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 ### Was fehlt also noch?
 
 ### 1. Flexibilität
-Hitze ≠ Hitzerisiko
+#### Hitze ≠ Hitzerisiko
 
 Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für andere bereits ein gesundheitliches Risiko dar.
-
-
+**Einmalig berechnete, statische Karten** bieten eine solide Grundlage, können allerdings zu **weiteren Fragen und benötigten Untersuchungen** führen, die nicht unmittelbar verfügbar sind. **Aktualisierungen** aufgrund veränderter Ausgangslage (Landnutzung & Bebauung, Bevölkerungsstruktur, o.ä.) sind nicht möglich.
 
 ### 2. Konsistenz
+Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.)
 
 ### 3. Übertragbarkeit
+Detaillierte Untersuchungen erfordern meist **maßgeschneiderte Lösungen für einzelne Städte**. Bisher besteht noch keine einheitliche Berechnungsmethodik des Hitzerisikos, um dieses für viele Städte zur Verfügung zu stellen. 
+
+### 
+**Flexible, konsistente und übertragbare Hitzerisikokarten** sind nicht nur eine Hilfestellung für **Städte und Gemeinden**, sondern auch für **Unternehmen und Organisationen**, die künftige Hitzerisiken abschätzen müssen.
 
 
-Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
-- High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
-- The pressing question is: where to act? Where are heat-reducing measures the most effective to protect vulnerable groups? 
-- … and where to start? Which adaption measures should be prioritized due to the risk at hand?
-- Not only is this an acute concern for cities and municipalities, but also for companies and organizations required to assess future heat risks.
-- This highlights the need for heat risk maps, which take vulnerable groups into account and effectively locate high risk areas.
+## Lösungsweg "Heat Risk Maps"
 
-## List <!--{ as="div" }-->
-- Extreme Hitze untertags und keine Abkühlung in der Nacht <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
-- Heat extremes at daytime and no cooling at nighttime: climate change poses a rising threat to urban life. Austria’s cities experienced almost a tripling of heat days and tropical nights – with the trend still increasing.
-- Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
-- High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
-- The pressing question is: where to act? Where are heat-reducing measures the most effective to protect vulnerable groups? 
-- … and where to start? Which adaption measures should be prioritized due to the risk at hand?
-- Not only is this an acute concern for cities and municipalities, but also for companies and organizations required to assess future heat risks.
-- This highlights the need for heat risk maps, which take vulnerable groups into account and effectively locate high risk areas.
+Entsprechend des Risikokonzepts des IPCC (6.Sachstandsbericht (AR6) der Arbeitsgruppe 2) setzt sich ein **Risiko aus Gefahr, Exposition und Vulnerabilität** zusammen.
 
-## Solution Capability
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="width: 100%; height: 60%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
+
+Eine Hitzerisikokarte soll es ermöglichen, ein spezifisches Hitzerisiko für eine definierte Bevölkerungsgruppe o.ä. zu ermitteln. 
+
+**Auswahl möglicher Hitzegefahr**:
+- Tagesmaximum der Lufttemperatur > 25°C / 30°C / 35°C
+- Tagesminimum der Lufttemperatur > 20°C
+- X aufeinanderfolgende Tage mit Tagesmaximum der Lufttemperatur > Y°C
+- ... weitere Klimaindizes 
+
+**Definition vulnerabler Gruppen**:
+- Personen jünger als 14 Jahre
+- Personen älter als 65 Jahre
+- Standorte vulnerabler, sozialer Infrastruktur (Kindergärten, Krankenhäuser, Pflegeheime, o.ä.)
+- Menschen mit geringem Einkommen
+- Berücksichtigung vorhandener Cool Spots o.ä. kühlen Aufenthaltsmöglichkeiten
+- ... weitere Faktoren zur Steigerung/Reduktion der Vulnerabilität
+
 Risk – based on the IPCC definition – is a combination of hazard, exposure, and vulnerability. Well-founded risk assessment is the first step to locate measures where needed, shape future developments, and direct impactful investments. Various data from different disciplines need to be comprehensively compiled and connected. But how to combine the available information in a meaningful way and create scientifically sound heat risk maps? 
 The developed heat-risk-algorithm merges state-of-the-art satellite information, like building structure, degree of soil sealing or tree cover, with population statistics, as well as high-resolution climate data tailored to Austria. The blend of open-source data with important area-specific datasets does not only allow to create customized heat risk maps for a selected city or municipality, but also ensures high quality and reliable results. The methodology allows the heat risk maps to be calculated regularly when new or updated datasets are available, making the effects of adaptation measures and urban development visible. It also offers the possibility to incorporate future spatial planning scenarios or demographic developments and helps to anticipate future impacts. The aim of the heat risk map is to present the information visually and in an easy-to-understand manner making the maps universally applicable for a wide range of use-cases.
 
@@ -128,6 +136,8 @@ The following entities are, or may be, involved in the provision of the HRM Capa
 AIT - Austrian Institute of Technology (Center for Energy/DRC)
 - The HRM Model is a copyright of AIT. The model is closed source.
 - AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
+
+
 
 
 
