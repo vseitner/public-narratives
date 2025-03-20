@@ -45,8 +45,18 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 
 ### Was fehlt also noch?
 
-### Flexibilität und Übertragbarkeit
-Hitze 
+### 1. Flexibilität
+Hitze ≠ Hitzerisiko
+
+Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für andere bereits ein gesundheitliches Risiko dar.
+
+
+
+### 2. Konsistenz
+
+### 3. Übertragbarkeit
+
+
 Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
 - High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
 - The pressing question is: where to act? Where are heat-reducing measures the most effective to protect vulnerable groups? 
