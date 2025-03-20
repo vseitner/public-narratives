@@ -52,7 +52,7 @@ Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für an
 **Einmalig berechnete, statische Karten** bieten eine solide Grundlage, können allerdings zu **weiteren Fragen und benötigten Untersuchungen** führen, die nicht unmittelbar verfügbar sind. **Aktualisierungen** aufgrund veränderter Ausgangslage (Landnutzung & Bebauung, Bevölkerungsstruktur, o.ä.) sind nicht möglich.
 
 ### 2. Konsistenz
-Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.)
+Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.) und zu Entscheidungsproblemen führen.
 
 ### 3. Übertragbarkeit
 Detaillierte Untersuchungen erfordern meist **maßgeschneiderte Lösungen für einzelne Städte**. Bisher besteht noch keine einheitliche Berechnungsmethodik des Hitzerisikos, um dieses für viele Städte zur Verfügung zu stellen. 
@@ -94,6 +94,7 @@ Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzer
 - Berücksichtigung vorhandener Cool Spots o.ä. kühlen Aufenthaltsmöglichkeiten
 - ... weitere Faktoren zur Steigerung/Reduktion der Vulnerabilität
 
+
 ## Anwendungsfälle
 Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzahl von Anwendungsfällen berechnet werden, u.a.
 - **Hitzeaktions- und Hitzeschutzpläne**: Die Integration von Hitzerisikokarten kann helfen, Maßnahmen auf die gefährdeten Gebiete zuzuschneiden.
@@ -114,6 +115,14 @@ Quelle: OHB SE (https://www.ohb.de/)
 ### Trendanalyse der Oberflächentemperatur
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c99dc5ac1895afc4f0bedeb7be09c9b37e63d39d/assets/OHB-1742473297589.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742473297589.png" />
 Quelle: OHB SE (https://www.ohb.de/)
+
+## Offene Fragen
+### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau? 
+
+### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
+
+### Wofür könnten Hitzerisikokarten zukünftig verwenden?
+
 
 
 
