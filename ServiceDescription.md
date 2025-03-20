@@ -10,10 +10,44 @@ cover-image: https://picsum.photos/id/53/800/600
  
 #### Problemstellung & Ausgangslage
 
-- Extreme Hitze untertags und keine Abkühlung in der Nacht: In Wien steigen Hitzetage und Tropennächte kontinuierlich an
+Extreme Hitze untertags und keine Abkühlung in der Nacht:
+In Wien steigt die Anzahl an Hitzetagen und Tropennächten kontinuierlich an.
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
-- Heat extremes at daytime and no cooling at nighttime: climate change poses a rising threat to urban life. Austria’s cities experienced almost a tripling of heat days and tropical nights – with the trend still increasing.
-- Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
+
+*Quelle: Klimastatusbericht Österreich 2023, Klimarückblick Wien, Hrsg. CCCA 2024.*
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+Die **hohe Bevölkerungsdichte** und der **urbane Wärmeinseleffekt** zwingen Städte dazu, sich anzupassen und Maßnahmen zu ergreifen, um die zunehmende Bedrohung zu bekämpfen. 
+
+**Doch Anpassungsmaßnahmen sind oft nur lokal wirksam, und die Mittel sind begrenzt**.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+Insbesondere **vulnerable Gruppen** leiden unter anhaltend hohen Temperaturen und Hitzestress - mit ernstzunehmenden Konsequenzen auf die Gesundheit.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu finden:
+- Wo sind Maßnahmen zur Reduktion der Hitzebelastung nötig?
+- Welche Personengruppen sollen durch gezielte Maßnahmen besser geschützt/unterstützt werden?
+- Wo herrscht der dringendste Handlungsbedarf?
+- Welche Gebiete sollen priorisiert behandelt werden?
+- ...
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadtklimas und der Hitzebetroffenheit** durchgeführt. Exemplarisch wir hier auf die **Wiener Stadtklimaanalyse (2020)** und den **Urban Heat Vulnerability Index (UHVI) Wien (2019)** verwiesen.
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
+
+*Quelle: Stadtklimaanalyse Wien, Klimaanalysekarte, 2020, Stadt Wien - Stadtentwicklung und Stadtplanung, Weatherpark GmbH, INKEK GmbH*
+
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="width: 100%; height: 30%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
+
+*Quelle: Darstellung von orf.at auf Basis der Daten von Stadt Wien (energie.wien.gv.at), ECOTEN, OpenStreetMap*
+
+
+### Was fehlt also noch?
+
+### Flexibilität und Übertragbarkeit
+Hitze 
+Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
 - High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
 - The pressing question is: where to act? Where are heat-reducing measures the most effective to protect vulnerable groups? 
 - … and where to start? Which adaption measures should be prioritized due to the risk at hand?
@@ -84,6 +118,7 @@ The following entities are, or may be, involved in the provision of the HRM Capa
 AIT - Austrian Institute of Technology (Center for Energy/DRC)
 - The HRM Model is a copyright of AIT. The model is closed source.
 - AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
+
 
 
 
