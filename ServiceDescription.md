@@ -45,7 +45,7 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 
 ### Was fehlt also noch?
 
-### 1. Flexibilität
+### 1. Flexibilität & Aktualität
 #### Hitze ≠ Hitzerisiko
 
 Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für andere bereits ein gesundheitliches Risiko dar.
@@ -75,7 +75,7 @@ Der entwickelte Hitzerisiko-Algorithmus kombiniert **aktuelle Satelliteninformat
 
 Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neue oder aktualisierte Datensätze verfügbar sind, und macht so die **Auswirkungen von Anpassungsmaßnahmen und Stadtentwicklung sichtbar**.
 
-Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demografische Entwicklungen** einzubeziehen und künftige Auswirkungen zu antizipieren. 
+Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demografische Entwicklungen** einzubeziehen und künftige Auswirkungen zu antizipieren. Während die Verwendung von open-source Daten die Grundlage bildet, können verfügbare stadtspezifische Daten eine höhere Qualität ermöglichen.
 
 Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzerisikos** für eine **definierte Bevölkerungsgruppe, Infrastruktur, o.ä.** unter **gewählten klimatischen Bedingungen** zu ermitteln. 
 
