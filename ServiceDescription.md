@@ -67,12 +67,23 @@ Entsprechend des Risikokonzepts des IPCC (6.Sachstandsbericht (AR6) der Arbeitsg
 
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="width: 100%; height: 60%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
 
-Eine Hitzerisikokarte soll es ermöglichen, ein spezifisches Hitzerisiko für eine definierte Bevölkerungsgruppe o.ä. zu ermitteln. 
+
+Durch eine **fundierte Risikobewertung** können zukünftige Entwicklungen gestaltet, wirkungsvolle Investitionen getätigt und **Maßnahmen dort platziert, wo sie benötigt werden**.
+Dafür müssen verschiedene Daten aus unterschiedlichen Disziplinen umfassend zusammengestellt und miteinander verknüpft werden. 
+
+Der entwickelte Hitzerisiko-Algorithmus kombiniert **aktuelle Satelliteninformationen**, wie Gebäudestruktur, Bodenversiegelungsgrad oder Baumbestand, mit **Bevölkerungsstatistiken** sowie hochauflösenden, auf Österreich zugeschnittenen **Klimadaten**. 
+
+Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neue oder aktualisierte Datensätze verfügbar sind, und macht so die **Auswirkungen von Anpassungsmaßnahmen und Stadtentwicklung sichtbar**.
+
+Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demografische Entwicklungen** einzubeziehen und künftige Auswirkungen zu antizipieren. 
+
+Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzerisikos** für eine **definierte Bevölkerungsgruppe, Infrastruktur, o.ä.** unter **gewählten klimatischen Bedingungen** zu ermitteln. 
 
 **Auswahl möglicher Hitzegefahr**:
 - Tagesmaximum der Lufttemperatur > 25°C / 30°C / 35°C
 - Tagesminimum der Lufttemperatur > 20°C
 - X aufeinanderfolgende Tage mit Tagesmaximum der Lufttemperatur > Y°C
+- unter gegenwärtigen, oder unter zukünftigen Klimabedingungen
 - ... weitere Klimaindizes 
 
 **Definition vulnerabler Gruppen**:
@@ -83,8 +94,16 @@ Eine Hitzerisikokarte soll es ermöglichen, ein spezifisches Hitzerisiko für ei
 - Berücksichtigung vorhandener Cool Spots o.ä. kühlen Aufenthaltsmöglichkeiten
 - ... weitere Faktoren zur Steigerung/Reduktion der Vulnerabilität
 
-Risk – based on the IPCC definition – is a combination of hazard, exposure, and vulnerability. Well-founded risk assessment is the first step to locate measures where needed, shape future developments, and direct impactful investments. Various data from different disciplines need to be comprehensively compiled and connected. But how to combine the available information in a meaningful way and create scientifically sound heat risk maps? 
-The developed heat-risk-algorithm merges state-of-the-art satellite information, like building structure, degree of soil sealing or tree cover, with population statistics, as well as high-resolution climate data tailored to Austria. The blend of open-source data with important area-specific datasets does not only allow to create customized heat risk maps for a selected city or municipality, but also ensures high quality and reliable results. The methodology allows the heat risk maps to be calculated regularly when new or updated datasets are available, making the effects of adaptation measures and urban development visible. It also offers the possibility to incorporate future spatial planning scenarios or demographic developments and helps to anticipate future impacts. The aim of the heat risk map is to present the information visually and in an easy-to-understand manner making the maps universally applicable for a wide range of use-cases.
+## Anwendungsfälle
+Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzahl von Anwendungsfällen berechnet werden, u.a.
+- **Hitzeaktions- und Hitzeschutzpläne**: Die Integration von Hitzerisikokarten kann helfen, Maßnahmen auf die gefährdeten Gebiete zuzuschneiden.
+- **Stadtentwicklungskonzepte**: Hitzerisikokarten liefern wertvolle Informationen für Raumplanung und Stadtentwicklung, um ihre Stadt für die Zukunft lebenswert zu gestalten.
+- **Priorisierung von Anpassungsmaßnahmen**: Vergleich von Gebieten innerhalb von Städten 
+- **Aktualisierung aktueller Informationen zum Hitzerisiko**: Sich ändernde Klimabedingungen, die Entwicklung von Stadtgebieten und veränderte Bevölkerungsstatistiken machen veraltete Karten unbrauchbar. Der entwickelte Algorithmus ermöglicht unkomplizierte Aktualisierungen.
+- **Auffinden von Orten mit zukünftigen Risiken**: Organisationen und Unternehmen, die mit vulnerablen Gruppen zu tun haben, können Orte mit hohem oder niedrigem, aktuellen und künftigen Hitzerisiko ermitteln, was für die Planung von Einreichtungen und Einsätzen entscheidend ist.
+
+
+
 
 ## Use-case examples
 ## Use-case examples <!--{ as="div" }-->
