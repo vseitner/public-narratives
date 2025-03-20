@@ -111,6 +111,7 @@ Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualit�
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
 Quelle: OHB SE (https://www.ohb.de/)
 
+-
 
 ### Trendanalyse der Oberflächentemperatur
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c99dc5ac1895afc4f0bedeb7be09c9b37e63d39d/assets/OHB-1742473297589.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742473297589.png" />
@@ -123,56 +124,3 @@ Quelle: OHB SE (https://www.ohb.de/)
 #### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
 -
 #### Wofür könnten Hitzerisikokarten zukünftig verwenden?
-
-
-
-
-## Benefits of Heat Risk Maps within GTIF
-1.	Update frequency: HRM are not a single product or service, but can be updated if relevant input data changes (e.g. building stock, population density, updated climate models)
-2.	Consistency: HRM use VDI conformal urban climate analysis and can thus either incorporate already available data or provide climatope information by the algorithm itself.
-3.	Data availability: HRM uses open-source data that can easily be replaced if higher quality datasets are available.
-
-## Heat Risk Maps
-## Heat Risk Maps <!--{ as="div" }-->
-- Target resolution: 50-250 m (any)
-- The data sources in detail:
-  -	Population density and age structure
-  -	Building stock
-  - Land use data from Copernicus (Earth observation component of the European Union Space Programme)
-  - Latest high-resolution climate scenarios (CMIP6 downscaled)
-
-
-
-
-
-## HRM APIs
-The HRM map is delivered via two different Application Programming Interfaces (APIs): (1) the OGC Web Map Service (WMS), a Web-standard portrayal and streaming interface for cascaded integration into widely used Geographical Information Systems such as QGIS, and (2) a RESTful machine-to-machine (M2M) API for integration with special end-user IT environments. Both APIs will be access-controlled for an authorized group of users.
-
-CHARACTERIZATION RESTful API: [...]
-
-## WebGIS Visualization
-The WebGIS will be access-controlled for an authorized group of users.
-
-WEBGUI ILLUSTRATION:  [...]
-
-## Download
-HRM Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file. 
-
-## Delivery Process
-The delivery process for the HRM Capability involving Customer and Provider(s) is shown in the following workflow.
-## Workflow <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/workflow-1741688647020.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/e5b4da2e69afbce1129a5674fa688a5eb22fd169/assets/workflow-1741688647020.jpg" style="width: 100%; height: 600px;"}-->
-
-## About: Provider Entities
-The following entities are, or may be, involved in the provision of the HRM Capability:
-
-AIT - Austrian Institute of Technology (Center for Energy/DRC)
-- The HRM Model is a copyright of AIT. The model is closed source.
-- AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
-
-
-
-
-
-
-
-
