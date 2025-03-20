@@ -73,9 +73,15 @@ Dafür müssen verschiedene Daten aus unterschiedlichen Disziplinen umfassend zu
 
 Der entwickelte Hitzerisiko-Algorithmus kombiniert **aktuelle Satelliteninformationen**, wie Gebäudestruktur, Bodenversiegelungsgrad oder Baumbestand, mit **Bevölkerungsstatistiken** sowie hochauflösenden, auf Österreich zugeschnittenen **Klimadaten**. 
 
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/571a29c80609516dabe7ec110c27c57082881ffc/assets/Datasourcessketch-1742500699197.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Datasourcessketch-1742500699197.png" />
+
+
 Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neue oder aktualisierte Datensätze verfügbar sind, und macht so die **Auswirkungen von Anpassungsmaßnahmen und Stadtentwicklung sichtbar**.
 
 Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demografische Entwicklungen** einzubeziehen und künftige Auswirkungen zu antizipieren. Während die Verwendung von open-source Daten die Grundlage bildet, können verfügbare stadtspezifische Daten eine höhere Qualität ermöglichen.
+
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/588e7425e04f03d74caa71434e7249e96ba2d4d9/assets/ExampleViennaSat-1742500663315.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742500663315.png" /><img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ceb5a601a82286b9762d1fd07c229e09fe4ecc23/assets/ExampleViennaRisk-1742500660382.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRisk-1742500660382.png" />
+
 
 Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzerisikos** für eine **definierte Bevölkerungsgruppe, Infrastruktur, o.ä.** unter **gewählten klimatischen Bedingungen** zu ermitteln. 
 
@@ -104,6 +110,8 @@ Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzah
 - **Auffinden von Orten mit zukünftigen Risiken**: Organisationen und Unternehmen, die mit vulnerablen Gruppen zu tun haben, können Orte mit hohem oder niedrigem, aktuellen und künftigen Hitzerisiko ermitteln, was für die Planung von Einreichtungen und Einsätzen entscheidend ist.
 
 
+
+
 ## Qualitätskontrolle
 Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualitätskomponente dar. Durch eine **Trendanalyse der Oberflächentemperatur**, können Veränderungen in der Landnutzungs- und Bebauungsstruktur einer Stadt identifiziert werden. An diesen Orten ist die Aktualität der Eingangsdaten zu überprüfen.
 
@@ -124,3 +132,4 @@ Quelle: OHB SE (https://www.ohb.de/)
 #### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
 -
 #### Wofür könnten Hitzerisikokarten zukünftig verwenden?
+
