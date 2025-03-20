@@ -4,8 +4,14 @@ cover-image: https://picsum.photos/id/53/800/600
 
 # Heat Risk Maps
 
-## Problem & Needs
-## List <!--{ as="div" }-->
+## Map Tour <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+ 
+#### Problemstellung & Ausgangslage
+
+- Extreme Hitze untertags und keine Abkühlung in der Nacht: In Wien steigen Hitzetage und Tropennächte kontinuierlich an
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
 - Heat extremes at daytime and no cooling at nighttime: climate change poses a rising threat to urban life. Austria’s cities experienced almost a tripling of heat days and tropical nights – with the trend still increasing.
 - Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
 - High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
@@ -14,7 +20,15 @@ cover-image: https://picsum.photos/id/53/800/600
 - Not only is this an acute concern for cities and municipalities, but also for companies and organizations required to assess future heat risks.
 - This highlights the need for heat risk maps, which take vulnerable groups into account and effectively locate high risk areas.
 
-
+## List <!--{ as="div" }-->
+- Extreme Hitze untertags und keine Abkühlung in der Nacht <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
+- Heat extremes at daytime and no cooling at nighttime: climate change poses a rising threat to urban life. Austria’s cities experienced almost a tripling of heat days and tropical nights – with the trend still increasing.
+- Exposure to heat causes significant stress on humans – especially for vulnerable groups, like children or elderly, the health consequences of prolonged exposure are serious.
+- High population densities and the urban heat island effect force cities to adapt and take action to tackle the rising threat. But adaptation measures are often only locally effective, and funds are limited.
+- The pressing question is: where to act? Where are heat-reducing measures the most effective to protect vulnerable groups? 
+- … and where to start? Which adaption measures should be prioritized due to the risk at hand?
+- Not only is this an acute concern for cities and municipalities, but also for companies and organizations required to assess future heat risks.
+- This highlights the need for heat risk maps, which take vulnerable groups into account and effectively locate high risk areas.
 
 ## Solution Capability
 Risk – based on the IPCC definition – is a combination of hazard, exposure, and vulnerability. Well-founded risk assessment is the first step to locate measures where needed, shape future developments, and direct impactful investments. Various data from different disciplines need to be comprehensively compiled and connected. But how to combine the available information in a meaningful way and create scientifically sound heat risk maps? 
@@ -44,11 +58,7 @@ The developed heat-risk-algorithm merges state-of-the-art satellite information,
   - Latest high-resolution climate scenarios (CMIP6 downscaled)
 
 
-## Map Tour <!--{ as="eox-map" mode="tour" }-->
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
-#### INTERACTIVE MAP ILLUSTRATION (TBD)
- Satellite image is gradually overlaid with data layers (3 layers) so that the risk is mapped with higher resolution bit by bit. 
 
 
 ## HRM APIs
@@ -74,5 +84,6 @@ The following entities are, or may be, involved in the provision of the HRM Capa
 AIT - Austrian Institute of Technology (Center for Energy/DRC)
 - The HRM Model is a copyright of AIT. The model is closed source.
 - AIT may be engaged commercially to provide further HRM Models optimized to other AoI based on Customer-provided in-situ - contact [XXX]
+
 
 
