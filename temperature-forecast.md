@@ -6,7 +6,8 @@ Rising temperatures and increasing heat stress pose challenges for city resident
 
 Weather-related health risks are increasing, as does the need especially for cooling but also for heating of buildings, thus challenging the energy suppliers. The importance of precise weather forecasts, especially in urban areas, is therefore growing rapidly.
 
-## Our solution: tailor-made high-resolution temperature forecasts for your city
+## Our solution
+### tailor-made high-resolution temperature forecasts for your city
 
 GeoSphere Austria is working with the latest technology to forecast urban weather phenomena more accurately than typically available. By integrating precise satellite-based (e.g. Sentinel 2) land cover data and additional information, the air temperature and derived variables can be calculated on a 100-meter grid. The need for such a fine grid spacing is represented in Fig. 2. To be able to do planning on the district level, the poutput of current global and local weather models (10-1km) is not sufficient. 
 This advanced model approach helps not only the public, but also actors in the State Crisis and Disaster Management (SKKM) to respond to potential dangers more quickly and efficiently. In addition, the forecasts can be used to predict heating or cooling requirements. The more detailed the temperature forecast, the more accurately the energy requirement can be estimated to increase the efficiency of energy supplier systems.
@@ -14,7 +15,7 @@ This advanced model approach helps not only the public, but also actors in the S
 
 _Fig. 2: Urban structures that can be distinguished on different spatial scales._
 
-## Technical features of the product
+## Technical features 
 
 |                       |               |
 | --------------------- | ------------- |
@@ -23,7 +24,7 @@ _Fig. 2: Urban structures that can be distinguished on different spatial scales.
 | forecast range        | +30 hours     |
 | forecast time         | 00 UTC        |
 
-Model domain is either based on data created by us or based on your data that you can provide from your city.
+The model domain is either based on data created by us or based on your data that you can provide from your city.
 
 
 
