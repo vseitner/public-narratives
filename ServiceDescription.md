@@ -80,7 +80,8 @@ Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neu
 
 Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demografische Entwicklungen** einzubeziehen und künftige Auswirkungen zu antizipieren. Während die Verwendung von open-source Daten die Grundlage bildet, können verfügbare stadtspezifische Daten eine höhere Qualität ermöglichen.
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/588e7425e04f03d74caa71434e7249e96ba2d4d9/assets/ExampleViennaSat-1742500663315.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742500663315.png" /><img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ceb5a601a82286b9762d1fd07c229e09fe4ecc23/assets/ExampleViennaRisk-1742500660382.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRisk-1742500660382.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3fccfa1e48b774193885976c416e71b33919e68e/assets/ExampleViennaSat-1742554565946.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742554565946.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
 
 
 Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzerisikos** für eine **definierte Bevölkerungsgruppe, Infrastruktur, o.ä.** unter **gewählten klimatischen Bedingungen** zu ermitteln. 
@@ -128,13 +129,10 @@ Quelle: OHB SE (https://www.ohb.de/)
 
 Quelle: OHB SE (https://www.ohb.de/)
 
-# Offene Fragen <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRisk-1742553883182.png" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/2203014722607a44e141ad717ccda9a23ed4fec6/assets/ExampleViennaRisk-1742553883182.png" }-->
+# Offene Fragen <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554622747.png" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ef4d26f1289df5d83508c3a1232e41b8be2910e6/assets/ExampleViennaRiskbuildings-1742554622747.png" }-->
 -
 ### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
 -
 ### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
 -
 ### Wofür könnten Hitzerisikokarten zukünftig verwenden?
-
-
-
