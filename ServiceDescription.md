@@ -49,7 +49,7 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 #### Hitze ≠ Hitzerisiko
 
 Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für andere bereits ein gesundheitliches Risiko dar.
-**Einmalig berechnete, statische Karten** bieten eine solide Grundlage, können allerdings zu **weiteren Fragen und benötigten Untersuchungen** führen, die nicht unmittelbar verfügbar sind. **Aktualisierungen** aufgrund veränderter Ausgangslage (Landnutzung & Bebauung, Bevölkerungsstruktur, o.ä.) sind nicht möglich.
+**Einmalig berechnete, statische Karten** bieten eine solide Grundlage, können allerdings zu **weiteren Fragen und benötigten Untersuchungen** führen, die nicht unmittelbar verfügbar sind. **Aktualisierungen** aufgrund veränderter Ausgangslage (Landnutzung & Bebauung, Bevölkerungsstruktur, o.ä.) oder variable räumliche Auflösung sind nicht möglich.
 
 ### 2. Konsistenz
 Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.) und zu Entscheidungsproblemen führen.
