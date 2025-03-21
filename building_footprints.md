@@ -1,4 +1,8 @@
-# Building Footprints Service: Smart City Infrastructure Monitoring
+---
+cover-image: ![Building Footprints](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
+---
+
+# Building Stock Update: Smart City Infrastructure Monitoring
 ## Introduction
 The GTIF Building Footprints service provides a comprehensive solution for monitoring and analyzing urban infrastructure through satellite-based observation. This service delivers up-to-date, spatially and temporally consistent building data, serving as a fundamental component for Smart City solutions.
 
@@ -82,6 +86,19 @@ For the same area, the Pleiades image (0.5m resolution) ordered by ubicube shows
 The building footprints algorithm provides probability maps in a first step (colorful). Comparison to existing building stock data shows huge differences. 
 
 ![Bild11](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
+
+I'll add a new section on "Next Steps" focusing on the integration with 3D models for comprehensive building stock updates. Here's the addition:
+
+### 3D Building Stock Integration
+
+The Building Footprints service is evolving toward comprehensive 3D urban modeling by integrating our current 2D detection capabilities with surface and elevation data. This advancement will enable:
+
+* Complete building stock updates with height and volumetric information
+* Detailed 3D city models for advanced urban planning
+* Improved analysis of urban density and skyline changes
+* Enhanced solar potential assessment based on roof geometry
+
+This integration leverages digital surface models (DSM) and digital terrain models (DTM) to extract building heights and shapes, creating accurate 3D representations of urban environments. The resulting models will support more sophisticated applications in urban planning, energy efficiency analysis, and smart city development.
 
 ## Use Cases
 The Building Footprints service supports various stakeholders:
@@ -168,9 +185,9 @@ The Building Footprints service is provided by ubicube GmbH, a Space Tech startu
 
 ### Contact Information
 ubicube GmbH
-Schönbrunner Straße 231, 1120 Wien
-www.ubicube.eu
-office@ubicube.eu
+- Schönbrunner Straße 231, 1120 Wien
+- www.ubicube.eu
+- office@ubicube.eu
 
 ### Legal Information
 The Building Footprints service is subject to ubicube's General Terms and Conditions. The service is provided "as is" without any warranty or guarantee for a specific property, suitability, or usability. ubicube reserves the right to interrupt or discontinue the service at any time without prior notice.
