@@ -16,15 +16,15 @@ In Wien steigt die Anzahl an Hitzetagen und Tropennächten kontinuierlich an.
 
 *Quelle: Klimastatusbericht Österreich 2023, Klimarückblick Wien, Hrsg. CCCA 2024.*
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+###
 Die **hohe Bevölkerungsdichte** und der **urbane Wärmeinseleffekt** zwingen Städte dazu, sich anzupassen und Maßnahmen zu ergreifen, um die zunehmende Bedrohung zu bekämpfen. 
 
 **Doch Anpassungsmaßnahmen sind oft nur lokal wirksam, und die Mittel sind begrenzt**.
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+### 
 Insbesondere **vulnerable Gruppen** leiden unter anhaltend hohen Temperaturen und Hitzestress - mit ernstzunehmenden Konsequenzen auf die Gesundheit.
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+### 
 Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu finden:
 - Wo sind Maßnahmen zur Reduktion der Hitzebelastung nötig?
 - Welche Personengruppen sollen durch gezielte Maßnahmen besser geschützt/unterstützt werden?
@@ -32,7 +32,7 @@ Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu find
 - Welche Gebiete sollen priorisiert behandelt werden?
 - ...
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+### 
 In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadtklimas und der Hitzebetroffenheit** durchgeführt. Exemplarisch wir hier auf die **Wiener Stadtklimaanalyse (2020)** und den **Urban Heat Vulnerability Index (UHVI) Wien (2019)** verwiesen.
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
 
