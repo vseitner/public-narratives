@@ -73,7 +73,7 @@ Dafür müssen verschiedene Daten aus unterschiedlichen Disziplinen umfassend zu
 
 Der entwickelte Hitzerisiko-Algorithmus kombiniert **aktuelle Satelliteninformationen**, wie Gebäudestruktur, Bodenversiegelungsgrad oder Baumbestand, mit **Bevölkerungsstatistiken** sowie hochauflösenden, auf Österreich zugeschnittenen **Klimadaten**. 
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/571a29c80609516dabe7ec110c27c57082881ffc/assets/Datasourcessketch-1742500699197.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Datasourcessketch-1742500699197.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d5b9ad0d69524f62e0647147174007da4c56111c/assets/Datasourcessketch-1742553530237.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Datasourcessketch-1742553530237.png" />
 
 
 Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neue oder aktualisierte Datensätze verfügbar sind, und macht so die **Auswirkungen von Anpassungsmaßnahmen und Stadtentwicklung sichtbar**.
@@ -116,20 +116,25 @@ Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzah
 Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualitätskomponente dar. Durch eine **Trendanalyse der Oberflächentemperatur**, können Veränderungen in der Landnutzungs- und Bebauungsstruktur einer Stadt identifiziert werden. An diesen Orten ist die Aktualität der Eingangsdaten zu überprüfen.
 
 ### Hochaufgelöste Oberflächentemperatur
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" style="width: 40%; height: 40%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+
 Quelle: OHB SE (https://www.ohb.de/)
 
 -
 
 ### Trendanalyse der Oberflächentemperatur
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c99dc5ac1895afc4f0bedeb7be09c9b37e63d39d/assets/OHB-1742473297589.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742473297589.png" />
+
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
+
 Quelle: OHB SE (https://www.ohb.de/)
 
-## Offene Fragen
+# Offene Fragen <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRisk-1742553883182.png" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/2203014722607a44e141ad717ccda9a23ed4fec6/assets/ExampleViennaRisk-1742553883182.png" }-->
 -
-#### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau? 
+### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
 -
-#### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
+### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
 -
-#### Wofür könnten Hitzerisikokarten zukünftig verwenden?
+### Wofür könnten Hitzerisikokarten zukünftig verwenden?
+
+
 
