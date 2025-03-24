@@ -129,10 +129,10 @@ Quelle: OHB SE (https://www.ohb.de/)
 
 Quelle: OHB SE (https://www.ohb.de/)
 
-# Offene Fragen <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554622747.png" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ef4d26f1289df5d83508c3a1232e41b8be2910e6/assets/ExampleViennaRiskbuildings-1742554622747.png" }-->
--
-### Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
--
-### Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
--
-### Wofür könnten Hitzerisikokarten zukünftig verwenden?
+# Offene Fragen 
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
+
+- Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
+- Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
+- Auf welcher räumlichen Genauigkeit sollen Hitzerisikokarten zur Verfügung stehen? (Datenverfügbarkeit zu Gebäude/Sanierungsstandard, o.ä.)
+- Wofür könnten Hitzerisikokarten zukünftig verwenden?
