@@ -1,21 +1,44 @@
-# The challenge of forecasting urban extreme temperature 
+# High-resolution extreme temperature forecasts for cities 
 
-![Skizze](https://github.com/user-attachments/assets/6da9d271-a1cb-4622-b675-280587197fd6)
+![Stadt](https://github.com/user-attachments/assets/974ce61a-280a-46c9-b58e-0af1ca34a427)
 
-Rising temperatures and increasing heat stress pose challenges for city residents in summer and require urban planners to transform cities into resilient and climate-adapted living spaces. So-called heat hotspots arise particularly in densely built-up and heavily sealed areas. This problem particularly affects vulnerable groups such as the elderly, children and people with chronic illnesses. In winter, on the other hand, severe frost can lead to cold deaths and other dangers, especially in traffic (black ice). 
+Rising temperatures and increasing heat stress pose significant challenges for city population, particularly during summer and require urban planners to transform cities into resilient and climate-adapted living spaces. Cities, with built-up areas and extensive sealed surfaces, create heat hotspots, exacerbating thermal discomfort and health risks. Vulnerable groups - such as the elderly, children, and individuals with chronic health conditions - are especially affected, facing an increased risk of heat-related illnesses and mortality. At the same time, fluctuating temperatures drive dynamic energy demands. The growing need for cooling in summer and heating in winter places additional pressure on energy infrastructure, requiring more efficient supply management and forecasting.
 
-Weather-related health risks are increasing, as does the need especially for cooling but also for heating of buildings, thus challenging the energy suppliers. The importance of precise weather forecasts, especially in urban areas, is therefore growing rapidly.
+Traditional weather models, based on regional-scale meteorological data, lack the spatial resolution necessary to capture the fine-scale temperature variations caused by urban morphology. The need for such a fine grid spacing is illustrated in Figure 1. Urban heat islands significantly influence local climate conditions, creating temperature differences that coarse-resolution models (typically 1–10 km grids) cannot capture. Accurate, high-resolution urban weather forecasts are essential for mitigating health risks, optimizing energy distribution, and enhancing overall urban resilience.
 
-## Our solution
-### tailor-made high-resolution temperature forecasts for your city
-
-GeoSphere Austria is working with the latest technology to forecast urban weather phenomena more accurately than typically available. By integrating precise satellite-based (e.g. Sentinel 2) land cover data and additional information, the air temperature and derived variables can be calculated on a 100-meter grid. The need for such a fine grid spacing is represented in Fig. 2. To be able to do planning on the district level, the poutput of current global and local weather models (10-1km) is not sufficient. 
-This advanced model approach helps not only the public, but also actors in the State Crisis and Disaster Management (SKKM) to respond to potential dangers more quickly and efficiently. In addition, the forecasts can be used to predict heating or cooling requirements. The more detailed the temperature forecast, the more accurately the energy requirement can be estimated to increase the efficiency of energy supplier systems.
 ![Fig1_resolution](https://github.com/user-attachments/assets/428d4891-20d9-4b60-a045-3fc4e53a0e16)
 
-_Fig. 2: Urban structures that can be distinguished on different spatial scales._
+_Fig. 1: Urban structures that can be distinguished on different spatial scales._
 
-## Technical features 
+## the challenge
+### forecast air temperature on a spatial scale that is representing urban features
+A numerical model is computing values on a 3-dimensional grid. For each of the model grid boxes, one e.g. air temperature value is calculated for time steps in the future.  State-of-the-art local weather forecast models are computed typically with a mesh size in the order of 2km.  
+
+## our solution
+### tailor-made high-resolution temperature forecasts for your city
+
+GeoSphere Austria provides the latest technology to forecast urban weather phenomena more detailed than typically available, with a fine spatial scale of 100 meters. Unlike standard weather models, this approach incorporates urban-specific data to deliver detailed forecasts at the district level.
+
+This advanced modelling approach can support a wide range of stakeholders, including:
+
+•	**Public authorities** and **crisis managers** to enhance disaster preparedness and response.  
+•	**Urban planners** and **policymakers** to design heat-resilient and energy-efficient cities.  
+•	**Energy providers** to optimize heating and cooling operations with more precise demand forecasting.
+
+By improving weather information at an urban scale, we empower cities to better adapt to weather and climate extremes.
+
+### workflow
+
+By integrating precise satellite-based data, air temperature and derived variables can be calculated on a 100-meter grid to simulate and forecast their spatial and hourly variations providing a database for informed decision-making. The model integrates multiple high-resolution datasets to enhance forecast accuracy:
+›	**Satellite-based land cover data** (e.g., Sentinel-2) to map surface properties and urban structures.
+›	**Building density and surface material analysis** to account for urban heat storage and emission.
+›	**Vegetation and green space influence** to assess cooling effects from parks and tree canopies.
+›	**Anthropogenic heat emissions** from industry and residential heating/cooling.
+
+
+
+
+### technical features 
 
 |                       |               |
 | --------------------- | ------------- |
@@ -26,6 +49,25 @@ _Fig. 2: Urban structures that can be distinguished on different spatial scales.
 
 The model domain is either based on data created by us or based on your data that you can provide from your city.
 
+## use cases
+
+›	Heat-health related high-resolution temperature forecasting  
+o	Identification of heat hotspots at a neighbourhood level to detect areas affecting vulnerable groups.
+o	Generation of temperature forecasts for heatwaves and extreme cold events.
+o	Support of urban planning for adaptation strategies (e.g. designing green spaces).
+
+
+X
+
+Figure 2:
+
+›	High resolution meteorological information for energy demand forecasting
+o	High-resolution temperature data to optimize district-level heating and cooling supply.
+o	Enhanced demand-side management to improve energy efficiency and reduce peak loads.
+
+X
+
+Figure 3:
 
 
 ## Organizational details and legal information
