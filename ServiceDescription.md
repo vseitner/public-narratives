@@ -114,7 +114,7 @@ Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzah
 
 
 ## Qualitätskontrolle
-Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualitätskomponente dar. Durch eine **Trendanalyse der Oberflächentemperatur**, können Veränderungen in der Landnutzungs- und Bebauungsstruktur einer Stadt identifiziert werden. An diesen Orten ist die Aktualität der Eingangsdaten zu überprüfen.
+Die **Aktualität der statischen Eingangsdaten** stellt eine wesentliche Qualitätskomponente dar. Durch eine **Trendanalyse der Oberflächentemperatur** (OHB), können Veränderungen in der Landnutzungs- und Bebauungsstruktur einer Stadt identifiziert werden. An diesen Orten ist die Aktualität der Eingangsdaten zu überprüfen.
 
 ### Hochaufgelöste Oberflächentemperatur
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" style="width: 40%; height: 40%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
