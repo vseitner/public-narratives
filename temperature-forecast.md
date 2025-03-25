@@ -1,6 +1,6 @@
-# High-resolution extreme temperature forecasts for cities 
-
-![Stadt](https://github.com/user-attachments/assets/974ce61a-280a-46c9-b58e-0af1ca34a427)
+# High-resolution extreme temperature forecasts for cities <!--{as="video" mode="hero" src="https://geosphere.at/de/geologie/@@images/image-400-6a1e064d50b6e5b17c0e8f35aa50f0d0.jpeg"}-->
+#### An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started! <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+![Stadt](https://github.com/user-attachments/assets/9825e748-1c21-4cbe-8a3c-b2ea13e2a349)
 
 Rising temperatures and increasing heat stress pose significant challenges for city population, particularly during summer and require urban planners to transform cities into resilient and climate-adapted living spaces. Cities, with built-up areas and extensive sealed surfaces, create heat hotspots, exacerbating thermal discomfort and health risks. Vulnerable groups - such as the elderly, children, and individuals with chronic health conditions - are especially affected, facing an increased risk of heat-related illnesses and mortality. At the same time, fluctuating temperatures drive dynamic energy demands. The growing need for cooling in summer and heating in winter places additional pressure on energy infrastructure, requiring more efficient supply management and forecasting.
 
