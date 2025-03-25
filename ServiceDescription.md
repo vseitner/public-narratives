@@ -33,7 +33,7 @@ Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu find
 - ...
 
 ### 
-In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadtklimas und der Hitzebetroffenheit** durchgeführt. Exemplarisch wir hier auf die **Wiener Stadtklimaanalyse (2020)** und den **Urban Heat Vulnerability Index (UHVI) Wien (2019)** verwiesen.
+In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadtklimas und der Hitzebetroffenheit** durchgeführt. Exemplarisch wird hier auf die **Wiener Stadtklimaanalyse (2020)** und den **Urban Heat Vulnerability Index (UHVI) Wien (2019)** verwiesen.
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
 
 *Quelle: Stadtklimaanalyse Wien, Klimaanalysekarte, 2020, Stadt Wien - Stadtentwicklung und Stadtplanung, Weatherpark GmbH, INKEK GmbH*
@@ -43,7 +43,7 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 *Quelle: Darstellung von orf.at auf Basis der Daten von Stadt Wien (energie.wien.gv.at), ECOTEN, OpenStreetMap*
 
 
-### Was fehlt also noch?
+### Wo gibt es Verbesserungsbedarf?
 
 ### 1. Flexibilität & Aktualität
 #### Hitze ≠ Hitzerisiko
@@ -52,10 +52,10 @@ Während die einen auch bei 30°C gerne in der Sonne sitzen, stellt dies für an
 **Einmalig berechnete, statische Karten** bieten eine solide Grundlage, können allerdings zu **weiteren Fragen und benötigten Untersuchungen** führen, die nicht unmittelbar verfügbar sind. **Aktualisierungen** aufgrund veränderter Ausgangslage (Landnutzung & Bebauung, Bevölkerungsstruktur, o.ä.) oder variable räumliche Auflösung sind nicht möglich.
 
 ### 2. Konsistenz
-Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.) und zu Entscheidungsproblemen führen.
+Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder verschiedener Zielsetzungen**, können inhaltsverwandte Untersuchungen Inkonsistenzen aufweisen (Ausprägung von Hitzebelastung, Handlungsnotwendigkeiten, o.ä.) und zu Entscheidungs- und Kommunikationsproblemen führen.
 
 ### 3. Übertragbarkeit
-Detaillierte Untersuchungen erfordern meist **maßgeschneiderte Lösungen für einzelne Städte**. Bisher besteht noch keine einheitliche Berechnungsmethodik des Hitzerisikos, um dieses für viele Städte zur Verfügung zu stellen. 
+Detaillierte Untersuchungen erfordern meist **maßgeschneiderte Lösungen für einzelne Städte**. Bisher besteht noch keine einheitliche Berechnungsmethodik des Hitzerisikos, um dieses für viele Städte und Regionen zur Verfügung zu stellen. 
 
 ### 
 **Flexible, konsistente und übertragbare Hitzerisikokarten** sind nicht nur eine Hilfestellung für **Städte und Gemeinden**, sondern auch für **Unternehmen und Organisationen**, die künftige Hitzerisiken abschätzen müssen.
@@ -86,14 +86,14 @@ Sie bietet auch die Möglichkeit, **künftige Raumplanungsszenarien oder demogra
 
 Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzerisikos** für eine **definierte Bevölkerungsgruppe, Infrastruktur, o.ä.** unter **gewählten klimatischen Bedingungen** zu ermitteln. 
 
-**Auswahl möglicher Hitzegefahr**:
-- Tagesmaximum der Lufttemperatur > 25°C / 30°C / 35°C
+**Beispiele: Auswahl möglicher Hitzegefahr**:
+- Tagesmaximum der Lufttemperatur > 25°C / 30°C / 35°C / 40°C
 - Tagesminimum der Lufttemperatur > 20°C
 - X aufeinanderfolgende Tage mit Tagesmaximum der Lufttemperatur > Y°C
 - unter gegenwärtigen, oder unter zukünftigen Klimabedingungen
 - ... weitere Klimaindizes 
 
-**Definition vulnerabler Gruppen**:
+**Beispiele: Definition vulnerabler Gruppen**:
 - Personen jünger als 14 Jahre
 - Personen älter als 65 Jahre
 - Standorte vulnerabler, sozialer Infrastruktur (Kindergärten, Krankenhäuser, Pflegeheime, o.ä.)
@@ -106,9 +106,9 @@ Die Hitzerisikokarten ermöglichen somit, die **räumliche Verteilung des Hitzer
 Durch die Flexibilität der Datenauswahl, kann das Hitzerisiko für eine Vielzahl von Anwendungsfällen berechnet werden, u.a.
 - **Hitzeaktions- und Hitzeschutzpläne**: Die Integration von Hitzerisikokarten kann helfen, Maßnahmen auf die gefährdeten Gebiete zuzuschneiden.
 - **Stadtentwicklungskonzepte**: Hitzerisikokarten liefern wertvolle Informationen für Raumplanung und Stadtentwicklung, um ihre Stadt für die Zukunft lebenswert zu gestalten.
-- **Priorisierung von Anpassungsmaßnahmen**: Vergleich von Gebieten innerhalb von Städten 
+- **Priorisierung von Anpassungsmaßnahmen**: Vergleich von Gebieten innerhalb von Städten und Regionen.
 - **Aktualisierung aktueller Informationen zum Hitzerisiko**: Sich ändernde Klimabedingungen, die Entwicklung von Stadtgebieten und veränderte Bevölkerungsstatistiken machen veraltete Karten unbrauchbar. Der entwickelte Algorithmus ermöglicht unkomplizierte Aktualisierungen.
-- **Auffinden von Orten mit zukünftigen Risiken**: Organisationen und Unternehmen, die mit vulnerablen Gruppen zu tun haben, können Orte mit hohem oder niedrigem, aktuellen und künftigen Hitzerisiko ermitteln, was für die Planung von Einreichtungen und Einsätzen entscheidend ist.
+- **Auffinden von Orten mit zukünftigen Risiken**: Organisationen und Unternehmen, die mit vulnerablen Gruppen zu tun haben, können Orte mit hohem oder niedrigem, aktuellen und künftigen Hitzerisiko ermitteln, was für die Planung von Standorten und Einsätzen entscheidend ist.
 
 
 
@@ -135,4 +135,4 @@ Quelle: OHB SE (https://www.ohb.de/)
 - Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
 - Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
 - Auf welcher räumlichen Genauigkeit sollen Hitzerisikokarten zur Verfügung stehen? (Datenverfügbarkeit zu Gebäude/Sanierungsstandard, o.ä.)
-- Wofür könnten Hitzerisikokarten zukünftig verwenden?
+- Wofür könnten Hitzerisikokarten zukünftig verwendet werden?
