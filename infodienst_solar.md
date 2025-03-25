@@ -42,7 +42,7 @@ The model chain for Austria is implemented as default. The model can be adapted 
 
 ![GSA_Basislogo_Positiv_RGB_XXS](https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d)
 
-**Contact**: [Vanessa Seitner](mailto:vanessa.seitner@geosphere.at) and [Matthias Schlögl](mailto:matthias.schloegl@geosphere.at)
+**Contact**: [APOLIS-Team](mailto:apolis@geosphere.at)
 
 ## Available services
 
