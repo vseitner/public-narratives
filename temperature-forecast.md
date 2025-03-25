@@ -12,9 +12,9 @@ Rising temperatures and increasing heat stress pose significant challenges for c
 Accurate, high-resolution urban weather forecasts are essential for mitigating health risks, optimizing energy distribution, and enhancing overall urban resilience. Unfortunately, current weather forecast models, based on regional-scale meteorological data, lack the spatial resolution necessary to capture the fine-scale temperature variations caused by urban morphology. On a 3-dimensional grid, these models are computing values that are "representative" for each model grid box. What does that mean in practice?
 For downtown Vienna, the yellow lines represent the 2.5km model grid 
 
-![Wien_2-5km_Gitter_klein](https://github.com/user-attachments/assets/ac1d4e95-2ab2-4fe2-8b54-c65145228b87)
+**BILD FEHLT NOCH**
 
-and this is the temperature forecast for 16th of August 2022, 13UTC for the center grid cell
+and this is the 2m air temperature [K] forecast for 16th of August 2022, 13UTC for the center grid cell
 ![t2m_AROME_innerestadt_2020081613](https://github.com/user-attachments/assets/6d1af711-3891-4c64-813f-23ac922fe4f9)
 based on GeoSphere Austria's current weather forecast model.
 
@@ -62,17 +62,17 @@ o	Generation of temperature forecasts for heatwaves and extreme cold events.
 o	Support of urban planning for adaptation strategies (e.g. designing green spaces).  
 
 
-X
+**BILD FEHLT NOCH**
 
-Figure 2:
+_Figure 2:_
 
 ›	High resolution meteorological information for energy demand forecasting  
 o	High-resolution temperature data to optimize district-level heating and cooling supply.  
 o	Enhanced demand-side management to improve energy efficiency and reduce peak loads.  
 
-X
+**BILD FEHLT NOCH**
 
-Figure 3:
+_Figure 3:_
 
 ## Available services
 
