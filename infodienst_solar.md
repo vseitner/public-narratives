@@ -15,7 +15,13 @@ _Fig 1: Example output of global solar radiation from *STRAHLGRID*. 1300 UTC of 
 ![infodienst_solar_step2](https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81)
 _Fig 2: Example output of global solar radiation from *STRAHLGRID*. 1400 UTC of an arbitrary day._ 
 
-The output of this radiation model is then going to be converted into solar potential. 
+The output of this radiation model is then going to be converted into solar power generation potential by the method of *Jerez et al (2015)*.  The potential tells you how much energy the solar panels are actually generating compared to what they could ideally produce.
+
+![infodienst_solar_potential_step1](https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7)
+_Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
+
+![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
+_Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
 
 And addiation feature of this product is, that not only the solar potential can be calculated, but also warnings on snow and dust covers can be provided. These warnings are genereted through the integration of GeoSphere Austria's operational snow model *SNOWGRID*, and dust forecasts from *WRF-Chem*.
 
@@ -49,4 +55,5 @@ Service on demand. Please contact: Kundenservice GeoSphere Austria
 
 1. [Goebel et al, 2022 - Development of a very high resolution solar radiation cadaster for estimating solar energy potential across the entire federal state of Salzburg, Austria](https://doi.org/10.5194/ems2022-396)
 2. [Seitner et al, 2024 - STRAHLGRID: A solar radiation model with applications across different spatial scales](https://doi.org/10.5194/ems2024-366)
-3. Publication of model algorithm in progress. 
+3. [Jerez et al, 2015 - The impact of climate change on photovoltaic power generation in Europe](https://www.nature.com/articles/ncomms10014)
+4. Publication of model algorithm in progress. 
