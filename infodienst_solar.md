@@ -15,7 +15,7 @@ _Fig 1: Example output of global solar radiation from *STRAHLGRID*. 1300 UTC of 
 ![infodienst_solar_step2](https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81)
 _Fig 2: Example output of global solar radiation from *STRAHLGRID*. 1400 UTC of an arbitrary day._ 
 
-The output of this radiation model is then going to be converted into solar power generation potential by the method of *Jerez et al (2015)*.  The potential tells you how much energy the solar panels are actually generating compared to what they could ideally produce.
+The output of this radiation model is then going to be converted into solar power generation potential by the method of *Jerez et al (2015)*.  The output is the potential for the generated power. To obtain the power at the installed system, this value must be multiplied by the nominal installed watts.
 
 ![infodienst_solar_potential_step1](https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7)
 _Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
