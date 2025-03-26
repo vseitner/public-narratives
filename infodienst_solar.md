@@ -38,6 +38,14 @@ And addiation feature of this product is, that not only the solar potential can 
 
 The model chain for Austria is implemented as default. The model can be adapted to other regions with some additional effort. 
 
+# Offene Fragen...
+
+* Welche Vorhersagedauer ist relevant?
+* Wann wird die Information benötigt? (Immer zu speziellen Uhrzeiten oder zB verstärkt in der Früh?)
+* In welcher Form ist die Information von Intersse? (In der Fläche? Als Zeitreihen?)
+* Sind Vergleiche mit einer Klimatologie relevant? (zB Hab ich morgen mehr als im langjährigen Mittel?)
+
+
 # Organizational details and contact
 
 ![GSA_Basislogo_Positiv_RGB_XXS](https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d)
