@@ -1,6 +1,6 @@
-------
-cover-image:  ![gtif_abb1_CDD_surE_COVER](https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0)
------- 
+---
+cover-image:  https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0
+--- 
 ![Stadt](https://github.com/user-attachments/assets/9825e748-1c21-4cbe-8a3c-b2ea13e2a349)
 # High-resolution extreme temperature forecasts for cities
 
