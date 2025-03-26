@@ -1,5 +1,5 @@
 ---
-cover-image: ![Building Footprints](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
+cover-image: https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede
 ---
 
 # Building Stock Update: Smart City Infrastructure Monitoring
