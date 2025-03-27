@@ -17,18 +17,10 @@ The Building Footprints service combines advanced satellite imagery analysis wit
 * Regular updates to maintain current infrastructure information
 
 
-
+## Workflow
+The service implements three core technological components.
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-02.png)
-
-## Workflow
-The service implements three core technological components
-
-### Data Fusion
-The system integrates multiple data sources including:
-*	High-resolution satellite imagery
-*	Existing building footprint databases
-*	Temporal data series for change detection
 
 ### Constant Monitoring
 The service provides continuous surveillance of urban areas through:
@@ -36,18 +28,26 @@ The service provides continuous surveillance of urban areas through:
 *	Automated change detection
 *	Temporal analysis of urban development
 
-
-
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-03.png)
 
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-04.png)
+
+
+### Data Fusion
+The system integrates multiple data sources including:
+*	Temporal data series for change detection
+*	High-resolution satellite imagery
+*	Existing building footprint databases
+
 
 ### Feature Extraction
 Advanced algorithms are employed to extract building information:
 *	AI-powered building detection
 *	Automated footprint generation
 *	Change analysis and verification
+
+![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
 
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-05.png)
@@ -56,10 +56,8 @@ Advanced algorithms are employed to extract building information:
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-06.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
-
-
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-08.png)
+
 
 ### Advanced AI-Powered Building Detection
 The Building Footprints service leverages cutting-edge AI technology for accurate building detection and segmentation. Our system employs the SAM-Adapter model (Segment Anything Model with domain-specific adaptation) to precisely identify and segment buildings in diverse urban environments. This approach has been validated for effectiveness in challenging scenarios, including refugee settlements where building detection is particularly complex. 
@@ -86,8 +84,6 @@ For the same area, the Pleiades image (0.5m resolution) ordered by ubicube shows
 The building footprints algorithm provides probability maps in a first step (colorful). Comparison to existing building stock data shows huge differences. 
 
 ![Bild11](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
-
-I'll add a new section on "Next Steps" focusing on the integration with 3D models for comprehensive building stock updates. Here's the addition:
 
 ### 3D Building Stock Integration
 
