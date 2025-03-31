@@ -1,12 +1,12 @@
 ---
-cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9109d63a4e9d7cb9fae549a7354c517bed795f4f/assets/solar-1-1743422130535.png
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/solar-1-1743422130535.png
 ---
 
 # Solar Panel Mapping
 
 This service provides high-quality insights about deployed solar energy modules by analysing satellite or aerial imagery using state-of-the-art computer vision methods.  
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/070ef07310e51089ae07b8c4e05e64e59c68ebfc/assets/solarpanelmapping-1743407512648.png" data-fallback-src="https://raw.githubusercontent.com/nvisionpublic/public-narratives/nvisionpublic/solar-panel-mapping-and-monitoring/assets/nvisionpublic/solarpanelmapping-1743407512648.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/solarpanelmapping-1743407512648.png" />
 
 ## Features
 
@@ -59,4 +59,4 @@ For any question, or discussion about specific needs or problems, do not hesitat
 **Gerhard Neuhold**\
 CEO & Founder
 
-[gerhard@n-vision.at](gerhard@n-vision.at)
+[gerhard@n-vision.at](mailto:gerhard@n-vision.at)
