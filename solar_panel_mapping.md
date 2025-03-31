@@ -1,3 +1,7 @@
+---
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9109d63a4e9d7cb9fae549a7354c517bed795f4f/assets/solar-1-1743422130535.png
+---
+
 # Solar Panel Mapping
 
 This service provides high-quality insights about deployed solar energy modules by analysing satellite or aerial imagery using state-of-the-art computer vision methods.  
