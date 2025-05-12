@@ -10,8 +10,10 @@ Are you looking for the ideal spot to install a photovolataic system? This GTIF-
 
 Austria aims to become climate neutral by 2040. To help reach this goal, solar energy needs to grow quickly and in a smart way. Accoring to ÖNIP (Integrated Austrian Grid Infrasturcture Plan) photovolaic systems will need to produce 21 TWh by 2030 and 41 TWh to support Austria’s climate and energy goals.  
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/18721e6b-adfe-44c4-be51-fb485f5a6adb" width="500" /> 
+</p>
 
-![ausbau_TWh](https://github.com/user-attachments/assets/18721e6b-adfe-44c4-be51-fb485f5a6adb) <!--{ width="400" }-->
 _Power generation from photovolatics in Austria. Source: [ÖNIP](https://www.bmwet.gv.at/Services/Publikationen/publikationen-energie/netzinfrastrukturplan.html)_
 
 The status oft he current photovolatik expansion can be tracked in the  [PV Austria Dashboard]( https://pvaustria.at/dashboard/).  Achieving this goal is not just a matter of putting up more photovolaic panels – it requires strategic, well informed decisions about where solar infrastructure should be placed. To adress this, we propse a robust framework to support the site identification for installing photovoltaic plants. 
@@ -21,8 +23,11 @@ The status oft he current photovolatik expansion can be tracked in the  [PV Aust
 Here in GTIF the mean global solar radiation data will be provided. This data accounts for terrain shading and real atmospheric conidtions. The information is based on the APOLIS Dataset from GeoSphere Austria, which provides data at a spatial resolution of 100m.  
 Additionally, you can opt to exculde certain areas from condideration for your system’s location. These areas could be national parks European protected areas, nature reserves, landscape conservation areas, etc.  
 
-![glo](https://github.com/user-attachments/assets/0167231f-199c-4c08-a1a7-1bb2dd161b9a)  <!--{ width="400" }-->
-![glo-national-parks](https://github.com/user-attachments/assets/f62f2fe1-6bb5-47f4-a261-ae6f530c2489)  <!--{ width="400" }-->
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0167231f-199c-4c08-a1a7-1bb2dd161b9a" width="330" />
+  <img src="https://github.com/user-attachments/assets/f62f2fe1-6bb5-47f4-a261-ae6f530c2489" width="330" /> 
+</p>
 
 _Global solar radiation on horizontal surface with spatial resolution of 100m. Left: Without National Parks. Right: With National Parks masked in white._
 
@@ -34,8 +39,10 @@ _Global solar radiation on horizontal surface with spatial resolution of 100m. L
 ### Inadequate spatial resolution?
 A data basis of 100m is not enough for you? No problem, get in touch with us.  For your special needs, we can provide exceptionally detailed data, additionally accounting for local shadowing effects from buildings and vegetation.
 
-![image_sbg_100](https://github.com/user-attachments/assets/22999b29-53d7-4bdd-9a14-eb73a95658c5) <!--{ width="400" }-->
-![sbg-1m-cut](https://github.com/user-attachments/assets/d3cbee48-98ce-4aa7-a648-1af4538f3a0c) <!--{ width="400" }-->
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/22999b29-53d7-4bdd-9a14-eb73a95658c5 " width="330" /> 
+  <img src="https://github.com/user-attachments/assets/d3cbee48-98ce-4aa7-a648-1af4538f3a0c" width="320" /> 
+</p>
 
 _Left: City center of Slazburg with 100m data. Right: City center of Salzburg with 1m data and combination of very high resolution surface model._
 
