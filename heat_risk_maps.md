@@ -34,7 +34,7 @@ Insbesondere **vulnerable Gruppen** leiden unter anhaltend hohen Temperaturen un
 **Doch Anpassungsmaßnahmen sind oft nur lokal wirksam, und die Mittel sind begrenzt**.
 
 ### 
-Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu finden:
+Das wirft eine Vielzahl an **drängenden Fragestellungen** auf, u.a.
 - Wo sind Maßnahmen zur Reduktion der Hitzebelastung nötig?
 - Welche Personengruppen sollen durch gezielte Maßnahmen besser geschützt/unterstützt werden?
 - Wo herrscht der dringendste Handlungsbedarf?
