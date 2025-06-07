@@ -3,7 +3,7 @@
 title: Evapotranspiration Monitoring
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png
 ---
-# Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/stock-photo-salzburg-july-a-picture-in-urban-park-people-have-different-preference-towards-weather-2279375035-1749285807313.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/cb9a7cc94efb29b285357a63fc60613a90a8ecf9/assets/stock-photo-salzburg-july-a-picture-in-urban-park-people-have-different-preference-towards-weather-2279375035-1749285807313.jpg" }-->
+# Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/shutterstock2418163195-1-1749287267218.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4e8fd78cbf4f95e1acccc6a15934202ec06f1508/assets/shutterstock2418163195-1-1749287267218.jpg" }-->
 
 
 
@@ -17,7 +17,6 @@ The UN World Water Report [1] draws attention to the increasing water consumptio
 Remote sensing technologies have become indispensable tools in the estimation of evapotranspiration, particularly in areas such as complex as urban environments. These technologies offer the unique advantage of capturing large-scale data over extensive areas with high precision and at regular intervals, providing critical insights into spatial and temporal variations in ET. The GTIF Capability described here uses Copernicus Sentinel data as systematically and periodically available information source allowing to apply the related information service on any place on Earth, provided related in-situ data can be made available.
 
 Demonstrating this GTIF Capability over Austria is well-justified as climate change is progressing at an above-average rate in this country, as evidenced by numerous measurements and observations. The average annual temperature in Austria is rising more than twice as fast as globally, with particularly strong effects in cities, agriculture, mountain and forest areas.
-
 
 
 ## Methodology
