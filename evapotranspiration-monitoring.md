@@ -1,7 +1,5 @@
 
----
-cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png
----
+
 
 # Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/shutterstock2418163195-1-1749287267218.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4e8fd78cbf4f95e1acccc6a15934202ec06f1508/assets/shutterstock2418163195-1-1749287267218.jpg" }-->
 
