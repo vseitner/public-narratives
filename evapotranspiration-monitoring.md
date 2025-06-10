@@ -1,9 +1,8 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png
 ---
-
-
-### Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/shutterstock2418163195-1-1749287267218.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4e8fd78cbf4f95e1acccc6a15934202ec06f1508/assets/shutterstock2418163195-1-1749287267218.jpg" }-->
+# Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/EvapotranspirationheroShutterstock-1749572586867.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/903579b8525dc7a7dee6664665e1a197c9c832e6/assets/EvapotranspirationheroShutterstock-1749572586867.jpg" }-->
+### by Sistema <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
 ## Motivation
@@ -24,12 +23,14 @@ The data for such methodology needs several pre-processing steps to perform the 
 
 The use of foundation models such as Prithvi increase the capabilities of the analysis, being already pre-trained with a large amount of satellite data (precisely optical such as Sentinel-2). In addition to such model, loss function such as the [perceptual loss](https://arxiv.org/abs/1603.08155) [4] can help in increasing the performance, making the model focusing on similar structure than the ECOSTRESS reference data.
 
+
+
 ## Information Products
 The outcome of the AI-powered processing workflow is a high-quality map that estimates evapotranspiration. This map is delivered in the widely used GeoTIFF format, making it easy to integrate with most Geographic Information System (GIS) tools. Each pixel on the map represents a 10-by-10 meter area on the ground, offering a detailed view of water loss across the landscape. To ensure accuracy in geographic placement, the data is aligned using the Universal Transverse Mercator (UTM) coordinate system, which provides a consistent way to reference locations anywhere in the world. This solution provides agricultural experts, water resource managers, urban landscape managers and environmental scientists with critical insights for precision agriculture, water management, and climate adaptation strategies.
 
 The service provision follows the most practical ways of retrieving data. Through the GTIF platform it is possible to visualize the products and download files for specific areas. Furthermore, an API is made available to programmatically/automatically request the generation of a map and download it when ready.
-        
-### Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationimage-1749281496902.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/34fd27de915260eec80fe27bd917ef57928a3598/assets/evapotranspirationimage-1749281496902.png" style="width: 100%; height: 600px;"}-->
+
+## Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/evapotranspirationcover-1749572352171.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fc8458dd3c74026a85a95a1e3584e9d5df4dd1d6/assets/evapotranspirationcover-1749572352171.png" style="width: 100%; height: 600px;"}-->
 Figure 1: Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria
 
 ## Entities Involved
@@ -43,6 +44,8 @@ The following entities are involved in the developing and communication of the e
 **GrünStattGrau Forschungs- und Innovations GmbH** is responsible for the validation of the product and acts as well as internal stakeholder transferring the developed methods to greening buildings that would be suitable for subsequent greening.
 
 **EOX IT Services GmbH** provides central components of the GTIF architecture and visualization WebGUI as well as the necessary cloud resources for use by the Capability provider.
+
+
 
 ## Individual Offers
 Sistema GmbH also offer a degressive pricing scheme for larger areas, making the services more affordable at scale. For detailed pricing information and to request a custom quote, please contact our sales team at sales@sistema.at
