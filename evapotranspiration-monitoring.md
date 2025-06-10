@@ -3,7 +3,7 @@ cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/trieb
 ---
 
 
-# Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/shutterstock2418163195-1-1749287267218.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4e8fd78cbf4f95e1acccc6a15934202ec06f1508/assets/shutterstock2418163195-1-1749287267218.jpg" }-->
+### Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/shutterstock2418163195-1-1749287267218.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4e8fd78cbf4f95e1acccc6a15934202ec06f1508/assets/shutterstock2418163195-1-1749287267218.jpg" }-->
 
 
 ## Motivation
@@ -29,7 +29,7 @@ The outcome of the AI-powered processing workflow is a high-quality map that est
 
 The service provision follows the most practical ways of retrieving data. Through the GTIF platform it is possible to visualize the products and download files for specific areas. Furthermore, an API is made available to programmatically/automatically request the generation of a map and download it when ready.
         
-# Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationimage-1749281496902.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/34fd27de915260eec80fe27bd917ef57928a3598/assets/evapotranspirationimage-1749281496902.png" style="width: 100%; height: 600px;"}-->
+### Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationimage-1749281496902.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/34fd27de915260eec80fe27bd917ef57928a3598/assets/evapotranspirationimage-1749281496902.png" style="width: 100%; height: 600px;"}-->
 Figure 1: Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria
 
 ## Entities Involved
