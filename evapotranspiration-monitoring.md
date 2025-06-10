@@ -65,3 +65,12 @@ The High Resolution Evapotranspiration service is subject to Sistema's General T
 
 © 2025 Sistema GmbH. All rights reserved. When using data or information derived from the “High Resolution Evapotranspiration Service” in publications, websites, or other media, please include the following citation: "Data provided by Sistema GmbH “High Resolution Evapotranspiration service”, part of the [GTIF-AT initiative](https://gtif-austria.info/narratives/evapotranspiration\_maps)."
 
+References:
+
+[1]  The United Nations World Water Development Report 2024: water for prosperity and peace <https://unesdoc.unesco.org/ark:/48223/pf0000388948> 
+
+[2] Szwarcman, Daniela, Sujit Roy, Paolo Fraccaro, Þorsteinn Elí Gíslason, Benedikt Blumenstiel, Rinki Ghosal, Pedro Henrique de Oliveira, et al. « Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications ». arXiv, 3 février 2025. <https://doi.org/10.48550/arXiv.2412.02732>. 
+
+[3] Guzinski, Radoslaw. « radosuav/pyDMS ». <https://github.com/radosuav/pyDMS>. 
+
+[4] Johnson, Justin, Alexandre Alahi, et Li Fei-Fei. « Perceptual Losses for Real-Time Style Transfer and Super-Resolution ». arXiv, 27 mars 2016. <https://doi.org/10.48550/arXiv.1603.08155>. 
