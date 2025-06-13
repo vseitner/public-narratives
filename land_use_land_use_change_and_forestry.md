@@ -1,3 +1,7 @@
+---
+cover-image: https://picsum.photos/id/53/800/600 
+---
+
 # GHG-KIT LULUCF Activity Data
 
 ## LULUCY yearly status maps 2015-2023 over Austria
@@ -6,5 +10,6 @@ The Land Use, Land Use Change and Forestry (LULUCF) status maps and statistics a
 
 Developed within FFG project ‘GHG-KIT Greeh House Gas Keep it traceable - Prototyping a satellite enabled, independent tool-kit system for GHG verification in Austria’ [contract #FO999893432]
 
-https://ghg-kit.at/
+Find further information of the [GHG Project](https://ghg-kit.at/)
 
+Explore [LULUCF activity data of Austria](https://gtif-austria.info/explore?indicator=land_use&x=13.7500&y=47.2688&z=7.3868&datetime=2023-01-01&template=light)
