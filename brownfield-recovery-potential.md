@@ -1,6 +1,5 @@
 
 ---
-title: Brownfield Recovery Potential
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldhero-1749912841028.png
 ---
 
@@ -126,7 +125,7 @@ EOX offers integration of the BRP Map into comprehensive applications for end-us
 
 The following section can be activated once the BRP Capability is registered by Fraunhofer IIS at NoR:
 
-### Network of Resources (NoR) {#network-of-resources-(nor)}
+### Network of Resources (NoR)
 
 The European Space Agency (ESA) offers sponsorship to eligible entities to **cover the costs of trying out the services provided by the BRP Capability**. Through ESA’s [Network of Resources (NoR)](https://nor-discover.org/) mechanism, a voucher will be provided for the selected BRP service plan, allowing free-at-point-of-use consumption for research, product development and up to pre-commercial demonstration. Vouchers must not be used to support any commercial revenue flows. Contact [sales at Fraunhofer IIS](https://www.scs.fraunhofer.de/de/kontakt/kontaktaufnahme-mitarbeiter/kontaktaufnahme-konrad-duerrbeck.html) for further information.
 
