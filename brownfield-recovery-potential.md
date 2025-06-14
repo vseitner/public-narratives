@@ -1,6 +1,6 @@
 
 ---
-cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldhero-1749912841028.png
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldhero-1749914990922.png
 ---
 
 
