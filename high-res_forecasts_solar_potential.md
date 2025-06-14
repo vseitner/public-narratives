@@ -1,3 +1,7 @@
+---
+cover-imae: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
+---
+
 # High-resolution forecasts of solar potential
 
 High quality data on solar radiation is an essential input for a wide range of applications in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.<br>
