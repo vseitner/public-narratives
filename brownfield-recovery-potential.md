@@ -1,4 +1,3 @@
-
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldcover-1749915393864.jpg
 ---
