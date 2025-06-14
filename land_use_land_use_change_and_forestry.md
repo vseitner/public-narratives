@@ -1,5 +1,5 @@
 ---
-cover-image: https://picsum.photos/id/53/800/600 
+cover-image: https://github.com/GTIF-Austria/public-narratives/blob/main/assets/triebnigg/LULUCF_Screenshot%202025-06-13%20174126.png
 ---
 
 # GHG-KIT LULUCF Activity Data
