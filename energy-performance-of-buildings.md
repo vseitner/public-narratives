@@ -102,7 +102,7 @@ A freely accessible dashboard is offered showing indexes generated as a promotio
 
 ## Dashboard 2 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-2-1749976689208.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bc887aa344f37e94b21d2505a07706f5f22762b4/assets/Dashboard-draft-2-1749976689208.jpg" style="width: 100%; height: 400px;"}-->
 
-*Figure 3 – EPeBLO Dashboard (preliminary mockup \- update with real dashboard implementation image COMING SOON.*
+*Figure 4 – EPeBLO Dashboard (preliminary mockup \- update with real dashboard implementation image COMING SOON.*
 
 ### Delivery Process
 
