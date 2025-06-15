@@ -33,7 +33,7 @@ Developed as a free and open service by Umweltbundesamt (UBA) Austria’s Federa
 
 ## Demo Website for BRP map <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Interactive-BRP-Map-1749913446965.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aedb64abda39df59e26a7ea3cb1f3848c4102d9c/assets/Interactive-BRP-Map-1749913446965.png" style="width: 100%; height: 600px;"}-->
 
-Fig.1 Demo website for BRP map.  
+Fig.1 Demo website for BRP map - real data example for Austria COMING SOON
 
 
 ### Key Benefits & Relevance:
@@ -106,7 +106,7 @@ Remote Sensing Imagery: For extended Areas of Interest the commercial procuremen
 
 #### BRP Capability using default Model
 
-**Fraunhofer IIS acts as a Provider** granting the following **Subscription Plans (**Prices exclusive Value Added Tax**)**:
+**Fraunhofer IIS acts as a Provider** granting the following **Subscription Plans (**Prices exclusive Value Added Tax**) - Prices COMING SOON**:
 ## Plans <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Plans-1749914333770.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/712158c83abe037cd9488d184214eb21d998484e/assets/Plans-1749914333770.png" style="width: 100%; height: 600px;"}-->
 
 
