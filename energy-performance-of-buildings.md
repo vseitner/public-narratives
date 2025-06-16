@@ -14,14 +14,13 @@ A clear societal objective is to improve energy efficiency and achieve an emissi
 
 The general picture is illustrated via the [EU Buildings Climate Tracker](https://www.bpie.eu/publication/eu-buildings-climate-tracker-a-call-for-faster-and-bolder-action/) (EU BCT) which monitors the progress of the building stock in the EU towards the goal of achieving climate neutrality by 2050\.  
 
-## EU BCT <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/EU-building-climate-tracker-1749975759643.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/51b24571c34f60dfcfc41f81e681f39ff8867d8a/assets/EU-building-climate-tracker-1749975759643.jpg" style="width: 100%; height: 400px;"}-->
-
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/EU-building-climate-tracker-1749975759643.jpg)
 
 *Figure 1 – The EU BCT represents a global index for the whole of the EU. However, conclusions about local settings, trends and forecasts cannot be derived from it. Geographical disaggregation of such an index and of related evidence data would therefore be desirable for supporting more granular policies and a monitoring of their implementation.*
 
 According to the EU Building Directive EPBD, each Member State should set up a national database for the overall energy efficiency of buildings. This should contain data on the energy efficiency of individual buildings and the energy efficiency of the national building stock. Aggregated and anonymized data on the building stock should be publicly accessible and available in a machine-readable format. Access to the full energy certificates should be granted free of charge to owners and users. Those interested in buying or renting should also have free access. Municipalities should also be able to use the database to draw up municipal heating plans. Individual stakeholders may be provided with fine-grained actionable information for planning and decision making even at the level of individual buildings or building blocks. 
 
-# Solution Capability: EPeBLO
+## Solution Capability: EPeBLO
 
 The Energy Performance of Buildings \- Local Observer (EPeBLO) Capability is the service which responds to the geospatial aspects and local dimension of monitoring the energy efficiency of buildings. It supports the identification of energy-related renovation potential of buildings. It achieves this by delivering on-demand digital cartographic and statistical products derived from time-series of high-resolution thermal satellite imagery processed in combination with bespoke “urban index” building stock information within a user-provided Area of Interest defined at street-level.
 
@@ -39,13 +38,13 @@ The EPeBLO map contains the building energy efficiency index valid for the local
 
 Copernicus Sentinel-3 LST data freely available globally is downscaled using two distinct methods, including one that leverages the correlation between LST and various land cover indices (e.g., NDVI, NDBI, NDBSI, NDMI, MNDWI, SAVI) through a Random Forest regressor. This method progressively refines the resolution down to 30m, producing a cloud-optimized datacube with a daily thermal time series. The resulting data is integrated with climatological information to derive an energy efficiency index and supports statistical analyses such as yearly or monthly means of all generated data.
 
-## LST 0 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-1749976008835.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/10b24594c34883daf540bae463ef498a38583eae/assets/LST-1749976008835.jpg" style="width: 100%; height: 200px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-1749976008835.jpg)
 
 *Figure 2 – OpenStreetMap with selected area (a part of Paris, France) for downscaling (Left) and spatial distribution of LST at Paris, France on 19.09.2024 at 10:02 am. (Middle) original Sentinel 3 LST with 1km spatial resolution, (Right) downscaled Sentinel 3 LST with 30m spatial resolution*
 
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-2-1749976234454.jpg)
 
-## LST 1 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-2-1749976234454.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d6dbb1eafa996b8304cca691d03c8d5ff6ee8eb8/assets/LST-2-1749976234454.jpg" style="width: 100%; height: 300px;"}-->
-## LST 2 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-3-1749976252699.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/54f39c599642385b50e8926eb3cc48202ed73790/assets/LST-3-1749976252699.jpg" style="width: 100%; height: 300px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-3-1749976252699.jpg)
 
 *Figure 3 – A comparison of the downscaled Sentinel 3 LST and Landsat LST at 30m resolution with time-series of mean values for a selected AoI polygon over all 20 validation dates, city of Nis, Serbia.*
 
@@ -97,18 +96,17 @@ The EPeBLO Map is also presented via a graphical user interface dashboard suppor
 
 A freely accessible dashboard is offered showing indexes generated as a promotional example of the service. Re-use of these data or taking screenshots of the dashboard for non-commercial use is permitted when the attribution “**©** OHB-DS generated using Copernicus Sentinel data” is added. For other uses, stakeholder-friendly [service subscription plans](#subscriptions) are offered.  
 
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-1-1749976710417.jpg)
 
-## Dashboard 1 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-1-1749976710417.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/2b5669b0b2c20e70732d541163498e706b785212/assets/Dashboard-draft-1-1749976710417.jpg" style="width: 100%; height: 400px;"}-->
-
-## Dashboard 2 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-2-1749976689208.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bc887aa344f37e94b21d2505a07706f5f22762b4/assets/Dashboard-draft-2-1749976689208.jpg" style="width: 100%; height: 400px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-2-1749976689208.jpg)
 
 *Figure 4 – EPeBLO Dashboard (preliminary mockup \- update with real dashboard implementation image COMING SOON.*
 
-### Delivery Process
+## Delivery Process
 
 The delivery process for the EPeBLO Capability involving Customer and Provider(s) is shown in the following workflow.
 
-## Workflow <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Workflow-1749976889944.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d5b571983e11917119fc376931d530ebe6be003b/assets/Workflow-1749976889944.png" style="width: 100%; height: 400px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Workflow-1749976889944.png)
 
 ## About
 
