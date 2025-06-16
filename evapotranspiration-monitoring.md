@@ -30,7 +30,8 @@ The outcome of the AI-powered processing workflow is a high-quality map that est
 
 The service provision follows the most practical ways of retrieving data. Through the GTIF platform it is possible to visualize the products and download files for specific areas. Furthermore, an API is made available to programmatically/automatically request the generation of a map and download it when ready.
 
-## Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/evapotranspirationcover-1749572352171.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fc8458dd3c74026a85a95a1e3584e9d5df4dd1d6/assets/evapotranspirationcover-1749572352171.png" style="width: 100%; height: 600px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/evapotranspirationcover-1749572352171.png)
+
 Figure 1: Sentinel-2 RGB and Evapotranspiration over Hochburg-Ach region, Upper Austria
 
 ## Entities Involved
