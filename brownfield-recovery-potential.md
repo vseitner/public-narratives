@@ -31,7 +31,7 @@ The Brownfield Recovery Potential (BRP) Interactive Map is a geospatial web base
 
 Developed as a free and open service by Umweltbundesamt (UBA) Austria’s Federal Environment Agency, in collaboration with Fraunhofer IIS,  the BRP map identifies approximately 5,700 commercial locations exceeding 1,000 m², making them prime candidates for redevelopment.
 
-## Demo Website for BRP map <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Interactive-BRP-Map-1749913446965.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aedb64abda39df59e26a7ea3cb1f3848c4102d9c/assets/Interactive-BRP-Map-1749913446965.png" style="width: 100%; height: 600px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Interactive-BRP-Map-1749913446965.png)
 
 Fig.1 Demo website for BRP map - real data example for Austria COMING SOON
 
@@ -53,7 +53,7 @@ BRP Maps can also be offered for download as files from an access controlled sFT
 
 The delivery process for the BRP Capability involving Customer and Provider(s) is shown in the following workflow.
 
-## Workflow <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Workflow-1749913835418.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a109e5cc4bbb53b76141965d178f66a51e064916/assets/Workflow-1749913835418.png" style="width: 100%; height: 800px;"}-->
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Workflow-1749913835418.png)
 
 ### Remote Sensing Imagery
 
@@ -107,7 +107,9 @@ Remote Sensing Imagery: For extended Areas of Interest the commercial procuremen
 #### BRP Capability using default Model
 
 **Fraunhofer IIS acts as a Provider** granting the following **Subscription Plans (**Prices exclusive Value Added Tax**) - Prices COMING SOON**:
-## Plans <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Plans-1749914333770.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/712158c83abe037cd9488d184214eb21d998484e/assets/Plans-1749914333770.png" style="width: 100%; height: 600px;"}-->
+
+![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/Plans-1749914333770.png)
+
 
 
 #### Option: BRP Capability including Generation of Optimized Model
