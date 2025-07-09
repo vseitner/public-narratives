@@ -27,7 +27,7 @@ jobs:
       - name: Extract Metadata
         run: |
           mkdir -p output
-          python .github/extract_metadata.py "https://GTIF_Austria.github.io/public-narratives/"
+          python .github/extract_metadata.py "https://gtif-austria.github.io/public-narratives/"
           cp *.md output
           touch output/.nojekyll
 
