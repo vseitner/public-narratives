@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png
+
+domain: Sustainable Cities
+tags:  urban climate, remote sensing, exposition, vulnerability
+
 ---
 
 # Heat Risk Maps

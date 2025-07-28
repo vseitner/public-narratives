@@ -1,5 +1,9 @@
 ---
 cover-image:  https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0
+
+domain: Sustainable Cities
+tags: heat hotspots, remote sensing, risk, vulnerability
+
 --- 
 
 # High-resolution Extreme Temperature Forecasts for Cities <!--{ as="img" mode="hero" src="https://github.com/user-attachments/assets/9825e748-1c21-4cbe-8a3c-b2ea13e2a349" }-->

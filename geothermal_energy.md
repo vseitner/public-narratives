@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Shallow-geothermal-energy-1568x896-1749906773529.jpg
+
+domain: Energy Transition
+tags:  soil moisture, ground temperature, sustainable heat
+
 ---
 
 # Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy

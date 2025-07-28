@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/LULUCFScreenshot-2025-06-13-174126-1749905176511.png
+
+domain: Carbon Accounting
+tags:  land cover, remote sensing, National Inventory Report
+
 ---
 
 # GHG-KIT LULUCF Activity Data

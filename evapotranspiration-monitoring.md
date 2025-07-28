@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png
+
+domain: Carbon Accounting
+tags:  vegetation, remote sensing, green spaces, water balance
+
 ---
 # Evapotranspiration Monitoring Demonstrator for Austria <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/EvapotranspirationheroShutterstock-1749572586867.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/903579b8525dc7a7dee6664665e1a197c9c832e6/assets/EvapotranspirationheroShutterstock-1749572586867.jpg" }-->
 ### by Sistema <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->

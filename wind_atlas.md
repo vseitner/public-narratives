@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Windatlas-1749907861729.png
+
+domain: Energy Transition
+tags: wind potential
+
 ---
 
 # Austrian Wind Atlas

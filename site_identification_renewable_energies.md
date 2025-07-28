@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161.webp
+
+domain: Energy Transition
+tags: wind energy, photovoltaic, RED-III
+
 ---
 
 # Site Identification for Renewable Energies
