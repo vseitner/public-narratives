@@ -44,7 +44,7 @@ jobs:
           fi
       - if: github.event.action != 'closed' && steps.get_pr_commit_message.outputs.should_skip != 'true'
         name: Install Dependencies
-        run: pip install markdown pyaml pillow requests
+        run: pip install markdown pyaml pillow requests opencv-python
 
       - if: github.event.action != 'closed' && steps.get_pr_commit_message.outputs.should_skip != 'true'
         name: Extract metadata
